@@ -1,6 +1,9 @@
 {
   "scripts": {
-  "build": "chmod +x node_modules/.bin/vite && vite build"
+  "build": "vitepress build docs",
+  "docs:dev": "vitepress dev",
+  "docs:build": "vitepress build docs",
+  "docs:preview": "vitepress preview"
 },
   "devDependencies": {
     "vitepress": "^1.6.4",
