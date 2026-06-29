@@ -1,6 +1,6 @@
 {
   "scripts": {
-  "build": "npx vitepress build docs",
+  "build": "node node_modules/vitepress/bin/vitepress.js build docs",
   "docs:dev": "vitepress dev",
   "docs:build": "vitepress build docs",
   "docs:preview": "vitepress preview"
