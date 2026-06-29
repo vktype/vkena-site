@@ -35,7 +35,7 @@
 - ["Is damaged and cannot be opened, you should eject the disk image / you should move it to the trash."](faq#ddi)
 - ["The installation cannot continue as the installer file may be damaged. Download the installer file again."](faq#icc)
 - ["You don't have XCode Command Line tools"](faq#xcc)
-- ["Error: couldn't find main entry point"](eer)
+- ["Error: couldn't find main entry point"](faq#eer)
 - [Failed with error code 133 (Adobe)](faq#ott)
 - ["Cannot be opened because it is from an unidentified developer" / "because Apple cannot check it for malicious software" / "cannot verify that this app is free from malware."](faq#uid)
 - ["Unable to expand [X] into " ". (Error 79)"](faq#esn)
@@ -250,7 +250,7 @@ Still having issues? Try using [Sentinel](https://itsalin.com/appInfo/?id=sentin
 
 You can download and run this alternative [patcher](https://www.mediafire.com/file/xp67w6dfdfqtb6s/ADOBE_23.6_FIX_-_SATVRN.zip/file) instead. Instructions are included.
 <br><br>
-### "Error: couldn't find main entry point" <span id="eer"></span>
+### Error: couldn't find main entry point {#eer}
 This typically means the plugin you're trying to run is missing a key file it needs to start, or it’s not installed correctly. Refer to text instructions and/or visual guides and reinstall it from scratch.
 <span class="note">If seeing this with Twixtor 8, use the RE:Vision 2303 Bundle.</span>
 <span style="font-weight: 800;">Last Resort: Disable Gatekeeper</span>

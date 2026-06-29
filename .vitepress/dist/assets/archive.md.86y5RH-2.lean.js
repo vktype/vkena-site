@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as i,a1 as t}from"./chunks/framework.DdbKPUhY.js";const h=JSON.parse('{"title":"✦ Archive","description":"","frontmatter":{},"headers":[],"relativePath":"archive.md","filePath":"archive.md"}'),o={name:"archive.md"};function n(s,e,l,p,f,d){return r(),i("div",null,[...e[0]||(e[0]=[t("",78)])])}const m=a(o,[["render",n]]);export{h as __pageData,m as default};

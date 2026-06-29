@@ -1,12 +1,15 @@
 {
   "scripts": {
-  "build": "node node_modules/vitepress/bin/vitepress.js build docs",
-  "docs:dev": "vitepress dev",
-  "docs:build": "vitepress build docs",
-  "docs:preview": "vitepress preview"
-},
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
   "devDependencies": {
     "vitepress": "^1.6.4",
     "vue": "^3.5.39"
+  },
+  "engines": {
+    "node": "24.x"
   }
 }
