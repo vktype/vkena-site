@@ -1,0 +1,342 @@
+/**
+ * Customize default theme styling by overriding CSS variables:
+ * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+ */
+
+/**
+ * Colors
+ *
+ * Each colors have exact same color scale system with 3 levels of solid
+ * colors with different brightness, and 1 soft color.
+ *
+ * - `XXX-1`: The most solid color used mainly for colored text. It must
+ *   satisfy the contrast ratio against when used on top of `XXX-soft`.
+ *
+ * - `XXX-2`: The color used mainly for hover state of the button.
+ *
+ * - `XXX-3`: The color for solid background, such as bg color of the button.
+ *   It must satisfy the contrast ratio with pure white (#ffffff) text on
+ *   top of it.
+ *
+ * - `XXX-soft`: The color used for subtle background such as custom container
+ *   or badges. It must satisfy the contrast ratio when putting `XXX-1` colors
+ *   on top of it.
+ *
+ *   The soft color must be semi transparent alpha channel. This is crucial
+ *   because it allows adding multiple "soft" colors on top of each other
+ *   to create a accent, such as when having inline code block inside
+ *   custom containers.
+ *
+ * - `default`: The color used purely for subtle indication without any
+ *   special meanings attached to it such as bg color for menu hover state.
+ *
+ * - `brand`: Used for primary brand colors, such as link text, button with
+ *   brand theme, etc.
+ *
+ * - `tip`: Used to indicate useful information. The default theme uses the
+ *   brand color for this by default.
+ *
+ * - `warning`: Used to indicate warning to the users. Used in custom
+ *   container, badges, etc.
+ *
+ * - `danger`: Used to show error, or dangerous message to the users. Used
+ *   in custom container, badges, etc.
+ * -------------------------------------------------------------------------- */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 40px !important; /* Forces the jump to land lower */
+}
+:root {
+  --vp-c-default-1: var(--vp-c-gray-1);
+  --vp-c-default-2: var(--vp-c-gray-2);
+  --vp-c-default-3: var(--vp-c-gray-3);
+  --vp-c-default-soft: var(--vp-c-gray-soft);
+
+  /* Your beautiful main theme accent colors */
+  --vp-c-brand-1: #A19B8C; 
+  --vp-c-brand-2: #8E8879; 
+  --vp-c-brand-3: #B4AE9F; 
+  --vp-c-brand-soft: rgba(161, 155, 140, 0.15);
+
+  --vp-c-tip-1: var(--vp-c-brand-1);
+  --vp-c-tip-2: var(--vp-c-brand-2);
+  --vp-c-tip-3: var(--vp-c-brand-3);
+  --vp-c-tip-soft: var(--vp-c-brand-soft);
+
+  --vp-c-warning-1: var(--vp-c-yellow-1);
+  --vp-c-warning-2: var(--vp-c-yellow-2);
+  --vp-c-warning-3: var(--vp-c-yellow-3);
+  --vp-c-warning-soft: var(--vp-c-yellow-soft);
+
+  --vp-c-danger-1: var(--vp-c-red-1);
+  --vp-c-danger-2: var(--vp-c-red-2);
+  --vp-c-danger-3: var(--vp-c-red-3);
+  --vp-c-danger-soft: var(--vp-c-danger-soft);
+
+  /* Your new custom warm charcoal backgrounds */
+  --vp-c-bg: #161615;      
+  --vp-c-bg-alt: #1e1e1d;  /* Slightly lighter for cards/panels */
+}
+
+/**
+ * Component: Button
+ * -------------------------------------------------------------------------- */
+
+:root {
+  /* Primary Button (Safety Inquiries) */
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: #161615;           /* Warm charcoal letters */
+  --vp-button-brand-bg: var(--vp-c-brand-1);    /* Sage background */
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: #161615;
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-active-border: transparent;
+  --vp-button-brand-active-text: #161615;
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+
+  /* Secondary Buttons (Video Tutorials & FAQ) */
+  --vp-button-alt-border: var(--vp-c-brand-1);  /* Sage border line */
+  --vp-button-alt-text: var(--vp-c-brand-1);    /* Sage letters */
+  --vp-button-alt-bg: #161615;                 /* Warm charcoal button body */
+  --vp-button-alt-hover-border: var(--vp-c-brand-2);
+  --vp-button-alt-hover-text: var(--vp-c-brand-2);
+  --vp-button-alt-hover-bg: #1e1e1d;            /* Subtle dark shift on hover */
+}
+
+/**
+ * Component: Home
+ * -------------------------------------------------------------------------- */
+
+:root {
+  /* Enables gradient text */
+  --vp-home-hero-name-color: transparent;
+
+  /* Your main sage color fading incredibly softly into a deep charcoal */
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    135deg, 
+    #A19B8C 70%, 
+    #6e695d 100%
+  );
+
+  /* Removes the old purple/blue background glow completely */
+  --vp-home-hero-image-background-image: none;
+  --vp-home-hero-image-filter: none;
+}
+
+/* Foolproof override for the tagline text color */
+.VPHero .tagline {
+  color: #746f6c !important;
+}
+
+/**
+ * Component: Custom Block
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-custom-block-tip-border: transparent;
+  --vp-custom-block-tip-text: var(--vp-c-text-1);
+  --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
+  --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
+}
+
+/**
+ * Component: Algolia
+ * -------------------------------------------------------------------------- */
+
+.DocSearch {
+  --docsearch-primary-color: var(--vp-c-brand-1) !important;
+}
+
+/**
+ * Component: Home Features Hover Effects & Styling
+ * -------------------------------------------------------------------------- */
+
+/* 1. Style the cards to perfectly blend with your background */
+.VPFeatures .VPFeature {
+  background-color: #1c1c1b !important; 
+  border: 1px solid #232322 !important;  
+  transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+/* 2. Target the Title Text inside the cards (A teeny bit brighter warm sage!) */
+.VPFeatures .VPFeature .title {
+  color: #B5AFA1 !important;
+}
+
+/* 3. Target the Details Text inside the cards (Your Tagline Warm Gray) */
+.VPFeatures .VPFeature .details {
+  color: #746f6c !important;
+}
+
+/* 4. The Hover State: Connected perfectly so the WHOLE card glows and moves */
+.VPFeatures .VPFeature:hover {
+  transform: translateY(-6px); 
+  border-color: #A19B8C !important; 
+  box-shadow: 0 10px 25px rgba(161, 155, 140, 0.08) !important; 
+}
+
+/**
+ * Page Custom Styling: Safety, Tutorials, FAQ
+ * -------------------------------------------------------------------------- */
+
+/* 1. Shortcut for your dark, italicized sub-label text */
+.sub-label {
+  color: #746f6c !important;
+  font-style: italic !important;
+  font-weight: normal !important;
+  font-size: 0.8em !important;
+  margin-left: 8px !important;
+  display: inline-block; /* Keeps it perfectly level with the heading text */
+}
+
+/* 2. Global rule to make ALL subheadings (##) extra bold, compact, and perfectly aligned */
+.vp-doc h2 {
+  color: #dad3d1 !important; 
+  font-weight: 800 !important; 
+  font-size: 1.1em !important;  
+  padding-top: 8px !important;   
+  margin-top: 16px !important;   
+  border-top: none !important; 
+  
+  /* Reset to normal text behavior to fix the indentation */
+  display: block !important;
+  position: relative !important;
+  padding-left: 0 !important; 
+}
+
+/* Position VitePress's automated hashtag anchor perfectly in the left margin space */
+.vp-doc h2 .header-anchor {
+  position: absolute !important;
+  left: -20px !important; /* Keeps it floated to the left */
+  top: 58% !important;    /* Shifted down from 50% to drop it a tiny hair */
+  transform: translateY(-50%) !important; 
+  margin: 0 !important;
+}
+
+/* Ensure your custom dark italic sub-label flows naturally at the end of the text line */
+.sub-label {
+  color: #746f6c !important;
+  font-style: italic !important;
+  font-weight: normal !important;
+  font-size: 0.8em !important;
+  margin-left: 8px !important;
+  display: inline-block !important;
+}
+
+/* 3. Global rule to make ALL main titles (#) bold, elegant, and properly spaced */
+.vp-doc h1 {
+  color: #dad3d1 !important;
+  font-weight: 800 !important; /* Nice and bold */
+  font-size: 1.8em !important;  /* Bolder and significantly bigger than h2 (1.1em) */
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  display: block !important;
+  position: relative !important;
+}
+
+/* Fix the hashtag alignment specifically for the main H1 title */
+.vp-doc h1 .header-anchor {
+  position: absolute !important;
+  left: -24px !important; /* Pushes it slightly further left to account for the larger font */
+  top: 22px !important;    /* Nudges it to hit the exact baseline of the larger letters */
+  transform: translateY(-50%) !important;
+  margin: 0 !important;
+}
+
+/* Remove underlines from headings and links */
+.vp-doc h2, 
+.vp-doc h1, 
+.vp-doc a {
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+
+/* Add extra breathing room above the divider */
+.vp-doc hr {
+  margin-top: 55px !important; /* Increase this number to add more space */
+}
+
+/* 1. Make ALL h2 headers larger, EXCEPT for the "Table Of Contents" one */
+.vp-doc h2:not(#table-of-contents) {
+  font-size: 1.4em !important; /* Adjust this size to whatever looks "big" enough */
+  font-weight: 700 !important;
+  margin-top: 0px !important;
+}
+
+/* 2. Keep the Table of Contents list links normal-sized */
+.vp-doc h2 + ul li a {
+  font-size: 1em !important; /* Resets to normal size */
+  font-weight: 400 !important;
+}
+
+/* 5. Custom style for h3 sub-subheadings (e.g., Adobe, Drivers, etc.) */
+.vp-doc h3 {
+  font-size: 1.2em !important; /* Smaller than h2, but larger than body text */
+  margin-top: 16px !important;
+  border-bottom: none !important; /* Ensures no underline */
+}
+
+/* Updated .note class */
+.note {
+  font-size: 0.85em !important;
+  font-style: italic !important;
+  font-weight: 400 !important; /* Force non-bold */
+  color: #746f6c !important;
+  display: block;
+  margin-top: 5px !important; /* Pulls it up closer to the h2 */
+  margin-bottom: 10px !important; /* Adjust spacing below the note */
+}
+
+/* Custom class for your italic, small, gray notes */
+.note2 {
+  font-size: 0.75em !important;
+  font-style: italic !important;
+  font-weight: 400 !important; /* Force this to be non-bold */
+  color: #746f6c !important;
+  display: inline-block;        /* Changed to inline-block so it sits next to text if needed */
+}
+
+/* Sets the main container and the inner code area to the same color */
+div[class*="language-"],
+div[class*="language-"] pre,
+div[class*="language-"] code {
+    background-color: #222120 !important;
+    background: #222120 !important;
+}
+
+h4 {
+    font-size: 1.1rem !important; 
+    font-weight: 800 !important;
+    -webkit-font-smoothing: antialiased; /* Makes text look sharper/thicker */
+    color: var(--vp-c-text-1);
+}
+
+/* 1. Force the solid background color */
+div[class*="language-"],
+div[class*="language-"] pre,
+div[class*="language-"] code {
+    background-color: #222120 !important;
+}
+
+/* 2. Force the base text color */
+div[class*="language-"] pre,
+div[class*="language-"] code {
+    color: #B5AFA1 !important;
+}
+
+/* 3. Force the syntax highlighting colors */
+/* These specific classes catch the colored parts of your code */
+div[class*="language-"] .token.string,
+div[class*="language-"] .token.number,
+div[class*="language-"] .token.keyword,
+div[class*="language-"] .token.boolean,
+div[class*="language-"] .token.function,
+div[class*="language-"] .token.parameter,
+div[class*="language-"] .token.tag,
+div[class*="language-"] .token.attr-value {
+    color: #A19B8C !important;
+}
+
+.indent {
+  padding-left: 2em; /* 2em is roughly 2-4 spaces wide */
+}
