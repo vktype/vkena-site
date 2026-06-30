@@ -63,7 +63,7 @@ Users are recommended to install the latest version of After Effects and take ad
 Do keep in mind that After Effects projects are **not backwards compatible**. You won’t be able to open project files or import presets created in versions of After Effects newer than your own, only if they were made with the same or older versions. You can downgrade a project file by going to **File** > **Save As** > **Save a Copy As *(version)***, *asuming you have a compatible version installed to open the project to begin with*.
 <span class="note">On MacOS? Read [this](ros.md) to learn about Apple Silicon compatibility. Mac users have different factors to consider compared to Windows users.</span>
 <br>
-### What are plugins, and which should I install? <span id="ppi"></span>
+### What are plugins, and which should I install? <span id="pii"></span>
 Plugins are effects which aren’t native to After Effects, meaning you download them separately. With plugins, you'll be able to use hundreds of effects that you wouldn’t have otherwise. Which plugins you should install depends on the individual, as not all plugins are used in every editing style. Hoarding plugins is also not ideal for storage or performance. Below you'll find descriptions for most popular plugins.
 
 #### Plugin Recommendations <span id="prc"></span>
