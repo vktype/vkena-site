@@ -71,9 +71,7 @@
 <br><br>
 ### Maxon <span id="maxon-w"></span>
 
-<div style="margin-top: 20px; margin-bottom: -10px;">
-  Red Giant Bundle 2025.5 <span class="note" style="display: inline-block; margin-left: 8px;">(Currently Unavailable)</span>
-</div>
+[Red Giant Bundle 2025.5](https://www.mediafire.com/file/3kox0wso45jnv42/Red_Giant_Maxon_Bundle_2025.5.0_Win_-_satvrn.zip/file)
 
 [Magic Bullet Suite 13](https://www.mediafire.com/file/v9kybnea7sj68yt/Magic_Bullet_Looks_13_WIN_-_satvrn.zip/file)
 
@@ -128,14 +126,16 @@
 
 <div style="margin-top: -3px; margin-bottom: -10px;">
   <a href="https://www.mediafire.com/file/r7t8wk998t83a8n/BCC_2019_Mac_-_satvrn.zip/file">Continuum (BCC) 2019</a> 
-  <span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+  <span class="note" style="display: inline-block; margin-left: 8px;">
+    (Not M1+ <a href="/ros">supported</a>)
+  </span>
 </div>
 
   <a href="https://www.mediafire.com/file/938fj9cu4t6hl5a/BorisFX_Sapphire_2025_MacOS_-_satvrn.zip/file">Sapphire 2025</a>
 
 <div style="margin-top: -3px; margin-bottom: -10px;">
   <a href="https://www.mediafire.com/file/2x5mia95vnunfzj/Sapphire_2019_Mac_-_satvrn.zip/file">Sapphire 2019</a> 
-  <span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+  <span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 [Mocha Pro 2023](https://www.mediafire.com/file/gh20cgrlfrdua4p/BFXMochaPro2023-10.0.4_Adobe_MacOS_-_satvrn.zip/file)
@@ -146,27 +146,27 @@
 
 <div style="margin-top: -3px; margin-bottom: -13px;">
 
-[Magic Bullet Suite 13](https://www.mediafire.com/file/qtnxuou8w5pqqvw/Magic_Bullet_Looks_13_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+[Magic Bullet Suite 13](https://www.mediafire.com/file/qtnxuou8w5pqqvw/Magic_Bullet_Looks_13_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -3px; margin-bottom: -13px;">
 
-[VFX Suite 1](https://www.mediafire.com/file/7i0qa8ekqamsx6v/Red_Giant_VFX_Suite_1_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+[VFX Suite 1](https://www.mediafire.com/file/7i0qa8ekqamsx6v/Red_Giant_VFX_Suite_1_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -16px; margin-bottom: -15px;">
 
-[Shooter Suite 13](https://www.mediafire.com/file/fje1z8wd9vdxmy2/Shooter_Suite_13_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+[Shooter Suite 13](https://www.mediafire.com/file/fje1z8wd9vdxmy2/Shooter_Suite_13_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -16px; margin-bottom: -15px;">
 
-[Universe 3](https://www.mediafire.com/file/esldd9pnysyy1w1/Universe_3.3.3_Mac_-_Satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+[Universe 3](https://www.mediafire.com/file/esldd9pnysyy1w1/Universe_3.3.3_Mac_-_Satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -16px; margin-bottom: -15px;">
 
-[Trapcode Suite 15](https://www.mediafire.com/file/q1vzftevon2k0su/Trapcode_Suite_15_MAC_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+[Trapcode Suite 15](https://www.mediafire.com/file/q1vzftevon2k0su/Trapcode_Suite_15_MAC_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 <br>
 
@@ -174,12 +174,12 @@
 
 <div style="margin-top: 0px; margin-bottom: -15px;">
 
-[Twixtor 7.3.0](https://www.mediafire.com/file/uc75dsw74d1o1m6/Twixtor_7.3.0_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+[Twixtor 7.3.0](https://www.mediafire.com/file/uc75dsw74d1o1m6/Twixtor_7.3.0_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -16px; margin-bottom: -15px;">
 
-[RSMB 6.2](https://www.mediafire.com/file/jut3kd1dccw3n0f/RSMB_6.2_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="ros.md">supported</a>)</span>
+[RSMB 6.2](https://www.mediafire.com/file/jut3kd1dccw3n0f/RSMB_6.2_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 <br>
 
