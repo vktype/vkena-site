@@ -19,13 +19,13 @@ hero:
 
 features:
   - title: Windows
-    details: Software and plugins.
+    details: Software and plugins
     link: /windows
   - title: MacOS
-    details: Software and plugins.
+    details: Software and plugins
     link: /macos
   - title: Extensions & Scripts
-    details: Extensions and scripts.
+    details: Extensions and scripts
     link: /extensions
   - title: Beginners Guide
     details: Everything you need to know as a new editor for After Effects
