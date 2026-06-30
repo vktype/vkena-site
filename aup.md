@@ -48,6 +48,7 @@ You can easily do this by setting up some firewall rules.
 4. Select your Adobe application(s), for example, "AfterFX.exe" for After Effects which is normally located at:
 
 `C:\Program Files\Adobe\Adobe After Effects (version)\Support Files`
+
 5. Select “Block the Connection” and name the rule whatever you want.
 6. If the alert still appears, repeat the same steps but this time set up an "Inbound" rule.
 <span class="note">[Video Tutorial](https://files.catbox.moe/2mqe5t.mp4)</span>
