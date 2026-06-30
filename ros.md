@@ -7,7 +7,7 @@ Starting in 2022, Adobe After Effects runs natively on Apple Silicon and while t
 - [Which After Effects version should I install?](ros#ver)
 - [Plugin M1+ Compatibility (List)](ros#pcl)
     - [Updated - (does not require Rosetta)](ros#udr)
-    - [Not updated - (requires Rosetta)](nrs)
+    - [Not updated - (requires Rosetta)](ros#nrs)
 
 ---
 ### "The following plugins are installed, but are not yet compatible with this version of After Effects...” <span id="pic"></span>
