@@ -5,11 +5,13 @@ export default defineConfig({
   title: "VK",
   description: "Editing Resources.",
   cleanUrls: true,
+  // Force dark mode and hide the toggle
+  appearance: 'force-dark', 
   head: [
     ['link', { rel: 'stylesheet', href: '/style.css' }]
   ],
   themeConfig: {
-    // Add the search bar here
+    // Local search bar
     search: {
       provider: 'local'
     },
