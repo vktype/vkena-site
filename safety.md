@@ -20,13 +20,13 @@ Credit belongs entirely to the original developers and distribution groups respo
 
 #### Future Updates
 
-This project is not intended to remain a static archive. As time goes on, newer software releases may be added after they have been properly verified. Older [Satvrn](https://satvrn.li/) files will continue to be preserved as part of the archive while newer releases are organized separately.
+This project is not intended to remain a static archive. As time goes on, newer software releases may be added after they have been properly verified. Older [Satvrn](https://satvrn.li/) files will continue to be preserved as part of the [archive](archive.md) while newer releases are organized separately.
 
 No release dates or update schedule are guaranteed.
 
 #### File Integrity
 
-Files are reviewed before being uploaded. Verification includes testing functionality, checking file integrity, and scanning with services such as VirusTotal. Whenever possible, releases are obtained from long-established and trusted sources within the community.
+Files are reviewed before being uploaded. Verification includes testing functionality, checking file integrity, and scanning with services such as VirusTotal and select others. All releases on our page are obtained from long-established and trusted sources within the community.
 
 No file is uploaded without first being reviewed.
 
@@ -36,4 +36,4 @@ Downloading unofficial or modified software always carries some level of risk. S
 
 Research engines are free to use. If you have concerns about a file, verify it yourself before installing it.
 
-Unofficial software isn't for everyone. If you're unfamiliar with file verification, online safety, or troubleshooting installation issues, you should not be downloading software from sites like this in the first place.
+Pirating isn't for everyone. If you're unfamiliar with file verification, online safety, or troubleshooting installation issues, you should not be downloading software from sites like this in the first place.
