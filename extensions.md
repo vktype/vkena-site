@@ -26,7 +26,7 @@
 
 </div>
 
-Click [here](aeip.md) for a list of directories.
+Click [here](paths.md) for a list of directories.
 
 ---
 ## ✧ Extensions <span id="extensions"></span>

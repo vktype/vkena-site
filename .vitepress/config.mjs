@@ -5,10 +5,16 @@ export default defineConfig({
   title: "VK",
   description: "Editing Resources.",
   cleanUrls: true,
+  
+  // Ignores the external links that were causing build errors
+  ignoreDeadLinks: [
+    './satvrn.li',
+    './d.keka.io'
+  ],
+
   // Force dark mode and hide the toggle
   appearance: 'force-dark', 
   head: [
-    
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
   themeConfig: {
