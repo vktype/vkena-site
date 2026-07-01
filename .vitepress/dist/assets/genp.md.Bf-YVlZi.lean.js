@@ -1,1 +1,0 @@
-import{_ as t,o,c as n,a1 as r}from"./chunks/framework.DdbKPUhY.js";const m=JSON.parse('{"title":"✦ GenP Guide","description":"","frontmatter":{},"headers":[],"relativePath":"genp.md","filePath":"genp.md"}'),a={name:"genp.md"};function s(i,e,l,d,g,p){return o(),n("div",null,[...e[0]||(e[0]=[r("",8)])])}const u=t(a,[["render",s]]);export{m as __pageData,u as default};

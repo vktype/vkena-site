@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.DdbKPUhY.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"maxon.md","filePath":"maxon.md"}'),o={name:"maxon.md"};function n(r,s,c,m,p,_){return t(),a("div")}const f=e(o,[["render",n]]);export{i as __pageData,f as default};

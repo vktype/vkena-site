@@ -1,1 +1,0 @@
-import{_ as r,o as a,c as t,a1 as i}from"./chunks/framework.DdbKPUhY.js";const h=JSON.parse('{"title":"✦ Windows","description":"","frontmatter":{},"headers":[],"relativePath":"windows.md","filePath":"windows.md"}'),n={name:"windows.md"};function o(l,e,s,p,f,d){return a(),t("div",null,[...e[0]||(e[0]=[i("",206)])])}const c=r(n,[["render",o]]);export{h as __pageData,c as default};

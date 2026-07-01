@@ -1,1 +1,0 @@
-import{_ as r,o as e,c as o,a1 as a}from"./chunks/framework.DdbKPUhY.js";const h=JSON.parse('{"title":"✦ How To Extract","description":"","frontmatter":{},"headers":[],"relativePath":"xtr.md","filePath":"xtr.md"}'),n={name:"xtr.md"};function s(i,t,l,d,p,c){return e(),o("div",null,[...t[0]||(t[0]=[a("",7)])])}const g=r(n,[["render",s]]);export{h as __pageData,g as default};
