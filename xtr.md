@@ -11,7 +11,7 @@ Click [here](https://files.catbox.moe/zpz8qt.mp4) for a video tutorial.
 
 ---
 ## ✧ MacOS <span id="macos"></span>
-Install [Keka](d.keka.io) or alternative software. For Mac users, we recommend [Keka](d.keka.io) as it is both free, and open source. Alternatives include The Unarchiver and PeaZip.
+Install [Keka](https://www.keka.io/) or alternative software. For Mac users, we recommend [Keka](https://www.keka.io/) as it is both free, and open source. Alternatives include The Unarchiver and PeaZip.
 <span class="note">Only the AppStore version is paid, while the [download](https://ibb.co/Wp2xtcnb) on their site is free.</span>
 
 Click [here](https://files.catbox.moe/sf7gfp.mp4) for a video tutorial.

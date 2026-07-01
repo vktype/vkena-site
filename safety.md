@@ -10,7 +10,7 @@ lastUpdated: false
 
 This website exists to preserve editing resources and provide a reliable place for users to continue to access them. The goal is long-term availability without unnecessary ads, redirects, or misleading downloads.
 
-The current library primarily consists of archived files from [Satvrn](satvrn.li) to ensure they are not lost after the website shuts down. These files remain in their original form, including their original names and passwords.
+The current library primarily consists of archived files from [Satvrn](https://satvrn.li/) to ensure they are not lost after the website shuts down. These files remain in their original form, including their original names and passwords.
 
 #### Credits & Origin
 
@@ -20,7 +20,7 @@ Credit belongs entirely to the original developers and distribution groups respo
 
 #### Future Updates
 
-This project is not intended to remain a static archive. As time goes on, newer software releases may be added after they have been properly verified. Older [Satvrn](satvrn.li) files will continue to be preserved as part of the archive while newer releases are organized separately.
+This project is not intended to remain a static archive. As time goes on, newer software releases may be added after they have been properly verified. Older [Satvrn](https://satvrn.li/) files will continue to be preserved as part of the archive while newer releases are organized separately.
 
 No release dates or update schedule are guaranteed.
 
