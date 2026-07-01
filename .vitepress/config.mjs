@@ -8,7 +8,8 @@ export default defineConfig({
   // Force dark mode and hide the toggle
   appearance: 'force-dark', 
   head: [
-    ['link', { rel: 'stylesheet', href: '/style.css' }]
+    ['link', { rel: 'stylesheet', href: '/style.css' }],
+    ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
   themeConfig: {
     // Local search bar
@@ -24,7 +25,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Downloads',
+        text: '🗁 Downloads',
         items: [
           { text: 'Windows', link: '/windows' },
           { text: 'MacOS', link: '/macos' },
@@ -33,7 +34,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'FAQ & Tutorials',
+        text: '.ᐣ FAQ',
         items: [
           { text: 'Frequently Asked Questions', link: '/faq' },
           { text: 'Visual Installation Tutorials', link: '/tutorials' },
@@ -43,10 +44,10 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Guides & Activation',
+        text: '⌕ Guides',
         items: [
           { text: 'After Effects Beginners Guide', link: '/bgtae' },
-          { text: 'Changing After Effects Version', link: '/version' },
+          { text: 'Changing After Effects Version', link: '/vsg' },
           { text: 'After Effects Installation Paths', link: '/paths' },
           { text: 'MacKed Adobe Activation', link: '/macked' },
           { text: 'GenP Adobe Activation', link: '/genp' },
@@ -54,7 +55,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Other',
+        text: 'ྀི Other',
         items: [
           { text: 'Safety Inquiries', link: '/safety' }
         ]
