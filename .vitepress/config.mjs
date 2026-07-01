@@ -8,7 +8,7 @@ export default defineConfig({
   // Force dark mode and hide the toggle
   appearance: 'force-dark', 
   head: [
-    ['link', { rel: 'stylesheet', href: '/style.css' }],
+    
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
   themeConfig: {
