@@ -122,7 +122,9 @@ The installers listed below are typically more convenient for beginners and quic
 ### Topaz Labs <span id="topaz-labs"></span>
 <span class="note">The following activators support the latest versions.</span>
 [Topaz Video](https://www.mediafire.com/file/am6vnyt2n9b1njt/Topaz_Video_Activator_v2_%2528win%2529_-_satvrn.7z/file)
+
 [Topaz Photo](https://www.mediafire.com/file/33a872qctt0twsc/Topaz_Photo_Activator_v2_%2528win%2529_-_satvrn.7z/file)
+
 [Topaz Gigapixel](https://www.mediafire.com/file/0z0kwhy6qazsp8c/Topaz_Gigapixel_Activator_v2_%2528win%2529_-_satvrn.7z/file)
 <br><br>
 ### TouchDesigner <span id="touchdesigner"></span>

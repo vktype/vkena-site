@@ -20,9 +20,11 @@ Credit belongs entirely to the original developers and distribution groups respo
 
 #### Future Updates
 
-This project is not intended to remain a static archive. As time goes on, newer software releases will be added after they have been properly verified. Older [Satvrn](https://satvrn.li/) files will continue to be preserved as part of the [archive](archive.md) while newer releases are organized separately to their respective OSes.
+Newer software releases will be added to the website after they've been properly verified. 
 
-No release dates or update schedule are guaranteed.
+Existing [Satvrn](https://satvrn.li/) files will be transitioned to the [archive](archive.md) no later than January 2027.
+
+<span class="note">All [Satvrn](https://satvrn.li/) files will retain their original password, while new releases added to the [Windows](windows.md) and [MacOS](macos.md) tabs will require the updated password. Refer to these pages for the current password information.</span>
 
 #### File Integrity
 
@@ -30,7 +32,7 @@ Files are reviewed before being uploaded. Verification includes testing function
 
 No file is uploaded without first being reviewed.
 
-## User Responsibility & Safety <span class="note2">(read before downloading)</span>
+#### User Responsibility & Safety <span class="note2">(read before downloading)</span>
 
 Downloading unofficial or modified software always carries some level of risk. Simply trusting our word won't always ease user's minds, but it's encouraged to always make your own decisions before installing anything.
 
