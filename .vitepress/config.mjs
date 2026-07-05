@@ -63,7 +63,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'tiktok', link: 'https://www.tiktok.com/@vktype?_r=1&_t=ZP-97bPQwbr6Za' }
-    ]
+  { icon: 'discord', link: 'https://discord.gg/UnmBtA4SGA' },
+  { icon: 'tiktok', link: 'https://www.tiktok.com/@vktype?_r=1&_t=ZP-97bPQwbr6Za' }
+]
   }
 })

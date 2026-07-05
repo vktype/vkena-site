@@ -8,7 +8,7 @@ hero:
   tagline: "Editing Resources."
   actions:
     - theme: brand
-      text: Safety Inquiries
+      text: Safety & Info
       link: /safety
     - theme: alt
       text: Video Tutorials

@@ -1,10 +1,10 @@
 ---
-title: Safety Inquiries
+title: Safety & Info
 editLink: false
 lastUpdated: false
 ---
 
-# ✦ Safety Inquiries
+# ✦ Safety & Info
 
 #### What is this space?
 
