@@ -12,6 +12,12 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
   themeConfig: {
+    // This adds your logo
+    logo: '/logo.png', 
+
+    // This hides the "VK" text text so ONLY the logo shows
+    siteTitle: false, 
+
     // Local search bar
     search: {
       provider: 'local'
@@ -63,8 +69,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-  { icon: 'discord', link: 'https://discord.gg/UnmBtA4SGA' },
-  { icon: 'tiktok', link: 'https://www.tiktok.com/@vktype?_r=1&_t=ZP-97bPQwbr6Za' }
-]
+      { icon: 'discord', link: 'https://discord.gg/UnmBtA4SGA' },
+      { icon: 'tiktok', link: 'https://www.tiktok.com/@vktype?_r=1&_t=ZP-97bPQwbr6Za' }
+    ]
   }
 })
