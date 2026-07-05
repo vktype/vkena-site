@@ -13,7 +13,7 @@ export default defineConfig({
   ],
   themeConfig: {
     // This adds your logo
-    logo: '/logo.png', 
+    logo: '/favicon.png', 
 
     // This hides the "VK" text text so ONLY the logo shows
     siteTitle: false, 
