@@ -63,7 +63,7 @@ export default defineConfig({
       {
         text: 'ྀི Other',
         items: [
-          { text: 'Safety Inquiries', link: '/safety' }
+          { text: 'Safety & Info', link: '/safety' }
         ]
       }
     ],
