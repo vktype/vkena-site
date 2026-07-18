@@ -24,7 +24,7 @@ Newer software releases will be added to the website once they have been properl
 
 Existing [Satvrn](https://satvrn.li/) files will be transitioned to our own naming convention no later than **November 2026**.
 
-<span class="note">New releases added to the [Windows](windows.md), [MacOS](macos.md), and [Archive](archive.md)tabs will require the updated password. Refer to those pages for the current password information.</span>
+<span class="note">New releases added to the [Windows](windows.md), [MacOS](macos.md), and [Archive](archive.md) tabs will require the updated password. Refer to those pages for the current password information.</span>
 
 #### File Integrity
 
