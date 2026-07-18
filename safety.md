@@ -20,11 +20,11 @@ Credit belongs entirely to the original developers and distribution groups respo
 
 #### Future Updates
 
-Newer software releases will be added to the website after they've been properly verified. 
+Newer software releases will be added to the website once they have been properly verified.
 
-Existing [Satvrn](https://satvrn.li/) files will be transitioned to the [archive](archive.md) no later than **November 2026**.
+Existing [Satvrn](https://satvrn.li/) files will be transitioned to our own naming convention no later than **November 2026**.
 
-<span class="note">All [Satvrn](https://satvrn.li/) files will retain their original password, while new releases added to the [Windows](windows.md) and [MacOS](macos.md) tabs will require the updated password. Refer to these pages for the current password information.</span>
+<span class="note">New releases added to the [Windows](windows.md), [MacOS](macos.md), and [Archive](archive.md)tabs will require the updated password. Refer to those pages for the current password information.</span>
 
 #### File Integrity
 
