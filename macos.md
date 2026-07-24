@@ -209,7 +209,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 <div style="margin-top: -5px; margin-bottom: -12px;">
 
-[Twitch](https://www.mediafire.com/file/xz8ekr5be0fp7t4/Twitch_Adobe_MacOS_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ supported.<a href="ros.md">Rosetta</a> required)</span>
+[Twitch](https://www.mediafire.com/file/xz8ekr5be0fp7t4/Twitch_Adobe_MacOS_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ supported. <a href="/ros">Rosetta</a> required)</span>
 </div>
 
 [VC Color Vibrance](https://www.videocopilot.net/blog/2014/05/new-plug-in-color-vibrance/)

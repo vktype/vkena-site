@@ -1,7 +1,7 @@
 # ✦ Rosetta Guide (MacOS)
-Starting in 2022, Adobe After Effects runs natively on Apple Silicon and while this was a great update it terms of preformance (Silicon being a powerhouse and successor over Apple's previous Intel Macs), it also poses the slight issue of outdated plugins not loading. Read below to learn more information.
+Starting in 2022, Adobe After Effects runs natively on Apple Silicon. While this brought massive performance improvements over older Intel Macs, it also introduced a compatibility issue where older or outdated plugins fail to load. Read below to learn more.
 - ["The following plugins are installed, but are not yet compatible with this version of After Effects...”](ros#pic)
-- [What is Rosetta, exactly?](ros#wis)
+- [What is Rosetta?](ros#wis)
     - [**Important**](ros#imp)
 - [How to enable Rosetta](ros#hte)
 - [Which After Effects version should I install?](ros#ver)
@@ -11,15 +11,15 @@ Starting in 2022, Adobe After Effects runs natively on Apple Silicon and while t
 
 ---
 ### "The following plugins are installed, but are not yet compatible with this version of After Effects...” <span id="pic"></span>
-You can easily fix this by enabling “Rosetta”, however do keep in mind that if you enable Rosetta you’ll lose performance benefits that come with owning an Apple Silicon Mac. In this situation you'll have to pick whichever is more important to you.
+You can easily fix this by enabling **Rosetta**. However, keep in mind that running After Effects under Rosetta will sacrifice some of the performance benefits of Apple Silicon. Ultimately, you'll need to decide whether plugin compatibility or maximum performance is more important for your workflow.
 <br><br>
 ### What is Rosetta? <span id="wis"></span>
-Rosetta acts as a translator, allowing After Effects to run as if it were on an Intel Mac. This in turn makes any third party plugins only built for Intel now compatible as After Effects is ultimately the host, i.e., if After Effects is running as Intel, so do your plugins, however you will lose your M1+ benefits and preformance will ultimately drop. Enabling Rosetta is a simple process.
+**Rosetta** acts as a translation layer, allowing After Effects to run as if it were on an Intel Mac. Because After Effects acts as the host application, running it via **Rosetta** forces third-party plugins built only for Intel to run smoothly alongside it. The trade-off is that you will lose M1+ benefits and performance will ultimately drop, leading to slower speeds overall. Enabling **Rosetta** is a quick and simple process.
 <br>
 
 #### Important <span id="imp"></span>
 - **Adobe removed the option to enable Rosetta in After Effects 2024 and later.**
-- You may not need Rosetta depending on which plugins you plan to use, scroll down to learn which from our list have been updated to support Apple Silicon.
+- You may not need **Rosetta** depending on which plugins you plan to use, scroll down to learn which from our list have been updated to support Apple Silicon.
 <br><br>
 
 ### How to enable Rosetta <span id="hte"></span>
@@ -28,9 +28,9 @@ Rosetta acts as a translator, allowing After Effects to run as if it were on an 
 3. Right click the application *(.app)* file INSIDE the folder and click **Get Info**.
 4. Under the **General** tab, checkmark **Open using Rosetta**.
 
-You must follow these steps exactly. You won't be able to enable Rosetta through a desktop shortcut.
+You must follow these steps exactly. You won't be able to enable **Rosetta** through a desktop shortcut.
 <span class="note">Click [here](https://www.youtube.com/shorts/dFFfBaWoH0A) for a video.</span>
-If the option to enable Rosetta is missing despite doing everything correctly **(excluding After Effects 2024/2025 and Intel Macs, obviously)**, you may need to install *Rosetta 2* using a command line.
+If the option to enable **Rosetta** is missing despite doing everything correctly **(excluding After Effects 2024/2025 and Intel Macs, obviously)**, you may need to install *Rosetta 2* using a command line.
 1. Open **Terminal**.
 2. Paste the following command:
 
@@ -42,12 +42,12 @@ Main points:
 
 - After Effects 2021 and older are not compatible on MacOS 14.0+ and won't launch. If you're on MacOS 14 or higher, you must go with After Effects 2022 or newer (2023,2024..)
 
-- Starting in After Effects 2024, Adobe permanently removed the option to enable Rosetta meaning plugins only built for intel-macs are completely unusable in After Effects 2024 and higher, refer to plugin list below.
+- Starting in After Effects 2024, Adobe permanently removed the option to enable **Rosetta** meaning plugins only built for intel-macs are completely unusable in After Effects 2024 and higher, refer to plugin list below.
 
-Enabling Rosetta can greatly drop performance, making it argubly not worth enabling for one or two plugins that you can easily substitute with something else.
+Enabling **Rosetta** can greatly drop performance, making it argubly not worth enabling for one or two plugins that you can easily substitute with something else.
 <br><br>
 ### Plugin M1+ Compatibility (List) <span id="pcl"></span>
-The following list is according to what is provided specifically on OUR site.
+The following list is according to what is provided specifically on *our* site.
 
 If you’re curious about a plugin that isn't mentioned, you can always look up the developer's release notes, see which version they added M1+ support for, and compare it with ours as versions are usually written in the file name.
 
