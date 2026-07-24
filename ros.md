@@ -75,7 +75,7 @@ If you’re curious about a plugin that isn't mentioned, you can always look up 
 <span class="note">Scripts and extensions are unaffected.</span>
 <br>
 #### Not updated - (requires Rosetta) <span id="nrs"></span>
-- Twitch (Video Copilot has not yet to release an M1+ update)
-- Shooter Suite (Discontinued, also never recieved an M1+ update)
+- Twitch *(Video Copilot has not yet released an M1+ update)*
+- Shooter Suite *(Discontinued, never received an M1+ update)*
 
-<span class="note">If you don't plan to use any of the "unsupported" plugins or agree that they are not worth the performance drop, then feel free to enjoy the latest versions of After Effects without any worry.</span>
+<span class="note">If you don't plan to use any of the 'unsupported' plugins or agree that they are not worth the performance drop, then feel free to enjoy the latest versions of After Effects without any worry.</span>
