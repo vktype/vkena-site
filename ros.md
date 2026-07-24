@@ -78,4 +78,4 @@ If you’re curious about a plugin that isn't mentioned, you can always look up 
 - Twitch (Video Copilot has not yet to release an M1+ update)
 - Shooter Suite (Discontinued, also never recieved an M1+ update)
 
-<span class="note">If you don't plan to use any of the "unsupported" plugins or agree that they are not worth the preformance drop, then feel free to enjoy the latest versions of After Effects without any worry.</span>
+<span class="note">If you don't plan to use any of the "unsupported" plugins or agree that they are not worth the performance drop, then feel free to enjoy the latest versions of After Effects without any worry.</span>

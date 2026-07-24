@@ -63,7 +63,12 @@ If you're on **Windows** and use a third party anti-virus besides **Windows Secu
 <br><br>
 ### Only some effects are unlicensed <span id="seu"></span>
 
-This typically happens with Trapcode plugins, such as Particular. When After Effects is installed on drive that isn't your main, the patcher isn't able to locate the files correctly to patch them. Create a support post in our discord and one of our members should be able to supply you with patched copies which you can replace via plugin directory.
+This typically happens with Trapcode plugins, such as Particular. If After Effects is installed on a secondary drive or in a custom folder path, the automated patcher cannot locate the files to patch them.
+
+1. Ensure your *Adobe After Effects* folder is located in the default directory (`C:\Program Files\Adobe\`). If it's not, temporarily move or install it there.
+2. Completely close After Effects and end any background Adobe/Maxon tasks in Task Manager ( **Ctrl** + **Shift** + **Esc** ).
+3. Run the patcher as **Administrator**.
+4. Once patched and verified working, you can move your After Effects folder back if desired.
 <br><br>
 ### Service Unavailable / Security Alert <span id="ssa"></span>
 <span class="note">If you get a [black screen](https://ibb.co/4gD62pfk) showing Maxon's service as unavailable, follow these steps.</span>
