@@ -3,38 +3,38 @@ All Adobe software includes a client called "Adobe Genuine Service" which period
 
 If you are a user of GenP or MacKed, please refer to any built in tools or their respective websites for more accurate information rather than this guide.
 
-[✧ Windows](#windows)
+[✧ **Windows**](#windows)
 
 <div class="indent">
 
-[✧ Method 1 - Firewall Rules](#windows-m1)
+- [Method 1 - Firewall Rules](#windows-m1)
 
-[✧ Method #2 - Block IPs](#windows-m2)
+- [Method #2 - Block IPs](#windows-m2)
 
-[✧ Method #3 - Uninstall AGS](#windows-m3)
+- [Method #3 - Uninstall AGS](#windows-m3)
 
 </div>
 
-[✧ MacOS](#macos)
+[✧ **MacOS**](#macos)
 
 <div class="indent">
 
-[✧ Method #1 - Block IPs automatically](#macos-m1)
+- [Method #1 - Block IPs automatically](#macos-m1)
 
-[✧ Method #2 - Firewall Rules](#macos-m2)
+- [Method #2 - Firewall Rules](#macos-m2)
 
-[✧ Method #3 - Manual IP block](#macos-m3)
+- [Method #3 - Manual IP block](#macos-m3)
 
 </div>
 
 ---
 ## ✧ Windows <span id="windows"></span>
-<div style="background-color: #302e2e; padding: 16px; border-radius: 6px;">
+<div style="background-color: #16181a; padding: 16px; border-radius: 6px;">
   <strong>The basics</strong>
   <ul>
     <li>Don't be on a virtual IP address (VPN/Proxy) - it will circumvent local settings such as hosts file or firewall rules.</li>
     <li>Make sure your firewall is enabled or else no rules will not be applied.</li>
-    <li>Don't have Creative Cloud installed. m0nkrus installers block communications to Adobe servers, and you require no account to use m0nkrus. It will very often break if you have Creative Cloud. Uninstall it <a href="/AdobeCreativeCloudCleanerTool.exe" download>here</a>.</li>
+    <li>Don't have Creative Cloud installed. m0nkrus installers block communications to Adobe servers, and you require no account to use m0nkrus releases. It will very often break if you have Creative Cloud. Uninstall it <a href="/AdobeCreativeCloudCleanerTool.exe" download>here</a>.</li>
   </ul>
 </div>
 
@@ -42,15 +42,15 @@ If you are a user of GenP or MacKed, please refer to any built in tools or their
 Blocking the targeted software from connecting to the internet is effective as it prevents Adobe Genuine Service from being able to verify your licensing status.
 You can easily do this by setting up some firewall rules.
 
-1. Open "Windows Defender Firewall with Advanced Security".
-2. Click “Outbound Rules” on the left side.
+1. Open **Windows Defender Firewall with Advanced Security**.
+2. Click **Outbound Rules** on the left side.
 3. Click [**New Rule...**](https://ibb.co/vCkNprn0) on the right side.
-4. Select your Adobe application(s), for example, "AfterFX.exe" for After Effects which is normally located at:
+4. Select your Adobe application(s), for example, `AfterFX.exe` for After Effects which is normally located at:
 
-`C:\Program Files\Adobe\Adobe After Effects (version)\Support Files`
+`C:\Program Files\Adobe\Adobe After Effects XXXX\Support Files`
 
-5. Select “Block the Connection” and name the rule whatever you want.
-6. If the alert still appears, repeat the same steps but this time set up an "Inbound" rule.
+5. Select **Block the Connection** and name the rule whatever you want.
+6. If the alert still appears, repeat the same steps but this time set up an **Inbound** rule.
 <span class="note">[Video Tutorial](https://files.catbox.moe/2mqe5t.mp4)</span>
 <div style="background-color: #302e2e; padding: 16px; border-radius: 6px;">
   <strong>Important</strong>
@@ -64,7 +64,7 @@ Alternatively, you can automatically block **all** Adobe firewalls by running [t
 
 <span class="note">This is not recommended if you're paying for any Adobe software or have a paid plugin/script.</span>
 
-1. Download the script (Download ZIP, top right).
+1. Download the script *(Download ZIP, top right)*.
 2. Extract the zip folder.
 3. Open the folder and run the *.bat* as administrator.
 4. Wait for it to complete, then you are done.
@@ -114,7 +114,7 @@ This is a script that updates the hosts file with the [Adobe blocklist](https://
 It runs in the background, and updates upon startup, and then every 30 minutes.
 *(If the blocklist url or internet isn't available, the hosts file is left untouched.)*
 
-<div style="background-color: #302e2e; padding: 16px; border-radius: 6px">
+<div style="background-color: #16181a; padding: 16px; border-radius: 6px">
 
 &#x20; If you are doing this method, you do not need to do <strong>Method #3</strong>.
 This is simply an automatic method, while #3 is manual.

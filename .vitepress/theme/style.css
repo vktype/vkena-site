@@ -53,10 +53,10 @@ html {
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
   /* Your beautiful main theme accent colors */
-  --vp-c-brand-1: #a19888; 
-  --vp-c-brand-2: #8E8879; 
-  --vp-c-brand-3: #B4AE9F; 
-  --vp-c-brand-soft: rgba(161, 155, 140, 0.15);
+  --vp-c-brand-1: #B1C2D7; 
+  --vp-c-brand-2: #313942; 
+  --vp-c-brand-3: #C6D1DB; 
+  --vp-c-brand-soft: rgba(242, 245, 248, 0.15);
 
   --vp-c-tip-1: var(--vp-c-brand-1);
   --vp-c-tip-2: var(--vp-c-brand-2);
@@ -74,8 +74,8 @@ html {
   --vp-c-danger-soft: var(--vp-c-danger-soft);
 
   /* Your new custom warm charcoal backgrounds */
-  --vp-c-bg: #161615;      
-  --vp-c-bg-alt: #1e1e1d;  /* Slightly lighter for cards/panels */
+  --vp-c-bg: #101113;      
+  --vp-c-bg-alt: #1e2022;  /* Slightly lighter for cards/panels */
 }
 
 /**
@@ -85,22 +85,22 @@ html {
 :root {
   /* Primary Button (Safety Inquiries) */
   --vp-button-brand-border: transparent;
-  --vp-button-brand-text: #161615;           /* Warm charcoal letters */
-  --vp-button-brand-bg: var(--vp-c-brand-1);    /* Sage background */
+  --vp-button-brand-text: #101113;           /* Warm charcoal letters */
+  --vp-button-brand-bg: var(--vp-c-brand-3);    /* Sage background */
   --vp-button-brand-hover-border: transparent;
-  --vp-button-brand-hover-text: #161615;
+  --vp-button-brand-hover-text: #101113;
   --vp-button-brand-hover-bg: var(--vp-c-brand-2);
   --vp-button-brand-active-border: transparent;
-  --vp-button-brand-active-text: #161615;
-  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+  --vp-button-brand-active-text: #101113;
+  --vp-button-brand-active-bg: var(--vp-c-brand-3);
 
   /* Secondary Buttons (Video Tutorials & FAQ) */
-  --vp-button-alt-border: var(--vp-c-brand-1);  /* Sage border line */
-  --vp-button-alt-text: var(--vp-c-brand-1);    /* Sage letters */
-  --vp-button-alt-bg: #161615;                 /* Warm charcoal button body */
+  --vp-button-alt-border: var(--vp-c-brand-3);  /* Sage border line */
+  --vp-button-alt-text: var(--vp-c-brand-3);    /* Sage letters */
+  --vp-button-alt-bg: #101113;                 /* Warm charcoal button body */
   --vp-button-alt-hover-border: var(--vp-c-brand-2);
   --vp-button-alt-hover-text: var(--vp-c-brand-2);
-  --vp-button-alt-hover-bg: #1e1e1d;            /* Subtle dark shift on hover */
+  --vp-button-alt-hover-bg: #C6D1DB;            /* Subtle dark shift on hover */
 }
 
 /**
@@ -114,8 +114,8 @@ html {
   /* Your main sage color fading incredibly softly into a deep charcoal */
   --vp-home-hero-name-background: -webkit-linear-gradient(
     135deg, 
-    #dbceba 70%, 
-    #6e695d 100%
+    #F2F5F8 70%, 
+    #7F8F9D 100%
   );
 
   /* Removes the old purple/blue background glow completely */
@@ -125,7 +125,7 @@ html {
 
 /* Foolproof override for the tagline text color */
 .VPHero .tagline {
-  color: #726963 !important;
+  color: #676F78 !important;
 }
 
 /**
@@ -153,26 +153,26 @@ html {
 
 /* 1. Style the cards to perfectly blend with your background */
 .VPFeatures .VPFeature {
-  background-color: #1c1c1b !important; 
-  border: 1px solid #232322 !important;  
+  background-color: #16181a !important; 
+  border: 1px solid #242729 !important;  
   transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 
 /* 2. Target the Title Text inside the cards (A teeny bit brighter warm sage!) */
 .VPFeatures .VPFeature .title {
-  color: #aaa090 !important;
+  color: #C6D1DB !important;
 }
 
 /* 3. Target the Details Text inside the cards (Your Tagline Warm Gray) */
 .VPFeatures .VPFeature .details {
-  color: #746c68 !important;
+  color: #676F78 !important;
 }
 
 /* 4. The Hover State: Connected perfectly so the WHOLE card glows and moves */
 .VPFeatures .VPFeature:hover {
   transform: translateY(-6px); 
-  border-color: #dbceba !important; 
-  box-shadow: 0 10px 25px rgba(161, 155, 140, 0.08) !important; 
+  border-color: #D7E1EB !important; 
+  box-shadow: 0 10px 25px rgba(242, 245, 248, 0.08) !important; 
 }
 
 /**
@@ -181,7 +181,7 @@ html {
 
 /* 1. Shortcut for your dark, italicized sub-label text */
 .sub-label {
-  color: #746f6c !important;
+  color: #676F78 !important;
   font-style: italic !important;
   font-weight: normal !important;
   font-size: 0.8em !important;
@@ -191,7 +191,7 @@ html {
 
 /* 2. Global rule to make ALL subheadings (##) extra bold, compact, and perfectly aligned */
 .vp-doc h2 {
-  color: #dad3d1 !important; 
+  color: #F2F5F8 !important; 
   font-weight: 800 !important; 
   font-size: 1.1em !important;  
   padding-top: 8px !important;   
@@ -215,7 +215,7 @@ html {
 
 /* Ensure your custom dark italic sub-label flows naturally at the end of the text line */
 .sub-label {
-  color: #746f6c !important;
+  color: #676F78 !important;
   font-style: italic !important;
   font-weight: normal !important;
   font-size: 0.8em !important;
@@ -225,7 +225,7 @@ html {
 
 /* 3. Global rule to make ALL main titles (#) bold, elegant, and properly spaced */
 .vp-doc h1 {
-  color: #dad3d1 !important;
+  color: #F2F5F8 !important;
   font-weight: 800 !important; /* Nice and bold */
   font-size: 1.8em !important;  /* Bolder and significantly bigger than h2 (1.1em) */
   margin-top: 0 !important;
@@ -281,7 +281,7 @@ html {
   font-size: 0.85em !important;
   font-style: italic !important;
   font-weight: 400 !important; /* Force non-bold */
-  color: #746f6c !important;
+  color: #676F78 !important;
   display: block;
   margin-top: 5px !important; /* Pulls it up closer to the h2 */
   margin-bottom: 10px !important; /* Adjust spacing below the note */
@@ -292,7 +292,7 @@ html {
   font-size: 0.75em !important;
   font-style: italic !important;
   font-weight: 400 !important; /* Force this to be non-bold */
-  color: #746f6c !important;
+  color: #676F78 !important;
   display: inline-block;        /* Changed to inline-block so it sits next to text if needed */
 }
 
@@ -300,8 +300,8 @@ html {
 div[class*="language-"],
 div[class*="language-"] pre,
 div[class*="language-"] code {
-    background-color: #222120 !important;
-    background: #222120 !important;
+    background-color: #16181a !important;
+    background: #16181a !important;
 }
 
 h4 {
@@ -315,13 +315,13 @@ h4 {
 div[class*="language-"],
 div[class*="language-"] pre,
 div[class*="language-"] code {
-    background-color: #222120 !important;
+    background-color: #16181a !important;
 }
 
 /* 2. Force the base text color */
 div[class*="language-"] pre,
 div[class*="language-"] code {
-    color: #B5AFA1 !important;
+    color: #C6D1DB !important;
 }
 
 /* 3. Force the syntax highlighting colors */

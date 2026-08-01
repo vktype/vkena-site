@@ -6,7 +6,7 @@ Install [7-Zip](https://www.7-zip.org/) or alternative software. For windows use
 Click [here](https://files.catbox.moe/zpz8qt.mp4) for a video tutorial.
 1. **Right click** the file you wish to open.
 2. Select **7-Zip** *under **Show More Options** on windows 11*.
-3. **Extract here** > Enter password > **OK** **(password:** `star`**)**
+3. **Extract here** > Enter password > **OK** **(password:** `vkt`**)**
 4. Proceed with your new, unzipped folder.
 
 ---
@@ -17,7 +17,7 @@ Install [Keka](https://www.keka.io/) or alternative software. For Mac users, we 
 Click [here](https://files.catbox.moe/sf7gfp.mp4) for a video tutorial.
 1. **Right click** the file you wish to open.
 2. Select **Open With** > choose **Keka**.
-3. Select location if asked > Enter password > **Done** **(password:** `star`**)**
+3. Select location if asked > Enter password > **Done** **(password:** `vkt`**)**
 4. Proceed with your new, unzipped folder.
 
 <span class="note">Archive utility can open encryptyed files in .zip format, but not .7z. Files will vary.</span>

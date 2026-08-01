@@ -3,7 +3,7 @@ If using another version of After Effects, **change *2026* to your version**.
 ## Table Of Contents
 <div class="indent">
 
-[**Windows**](#windows)
+[✧ **Windows**](#windows)
 
    - [Presets](#win-presets)
 
@@ -13,7 +13,7 @@ If using another version of After Effects, **change *2026* to your version**.
 
    - [Scripts](#win-scripts)
 
-[**MacOS**](#macos)
+[✧ **MacOS**](#macos)
 
    - [Presets](#mac-presets)
 

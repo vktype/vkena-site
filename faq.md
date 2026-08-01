@@ -1,6 +1,6 @@
 # ✦ Frequently Asked Questions
 
-### [✧ General](#general)
+### [✧ **General**](#general)
 - [Is [plugin] compatible with my After Effects version?](faq#piv)
 - [How can I resolve "This unlicensed Adobe app will be disabled"?](faq#gcc)
 - [What will happen if I switch After Effects versions?](faq#swt)
@@ -14,7 +14,8 @@
 - [Generative AI is not working. Help!](faq#gai)
 - [Missing CEP folder.](faq#cep)
 - [Magic Bullet Look presets not appearing same as the original coloring.](faq#mbl)
-### [✧ Windows](#windows)
+<br><br>
+### [✧ **Windows**](#windows)
 - ["Windows cannot complete the extraction. The destination file could not be created."](faq#wxt)
 - ["An unexpected error is keeping you from copying the file, Error 0x80004005."](faq#cer)
 - ["The application was unable to start correctly (Oxc0000142). Click OK to close the application."](faq#ser)
@@ -29,7 +30,8 @@
 - [I’m unable to launch specific games (e.g Valorant) after Adobe installation(s)?](faq#vgl)
 - [DeleteFile failed; code 5. Access is denied. (Red Giant Service.exe)](faq#cfd)
 - ["Error copying file from [...] Red Giant Service.exe" (Maxon App)](faq#fer)
-### [✧ MacOS](faq#macos)
+<br><br>
+### [✧ **MacOS**](faq#macos)
 - ["After Effects can't continue: unexpected failure during application startup."](faq#aec)
 - ["The following plugins are installed but are not yet compatible with this version."](faq#pci)
 - ["Is damaged and cannot be opened, you should eject the disk image / you should move it to the trash."](faq#ddi)
@@ -47,6 +49,7 @@
 - [When I type my password in Terminal nothing happens?](faq#pit)
 - [I can't find my Library folder in Finder.](faq#lff)
 - ["Adobe X wants to access key "Adobe Licensing Information“ in your keychain"](faq#ali)
+- ["The installation failed. The installer encountered an error that caused the installation to fail. Contact the software manufacturer for assistance."](faq#ifm)
 ---
 ## ✧ General <span id="general"></span>
 ### Is [plugin] compatible with my After Effects version? <span id="piv"></span>
@@ -215,14 +218,14 @@ Certain games and other sensitive apps that use anti-cheat mechanisms may detect
 4. Try again.
 ---
 ## ✧ MacOS <span id="macos"></span>
-<div style="background-color: #302e2e; padding: 16px; border-radius: 6px">
+<div style="background-color: #16181a; padding: 16px; border-radius: 6px">
   Common questions and troubleshooting for issues on Mac.
 </div>
 <br>
 
 ### "After Effects can't continue: unexpected failure during application startup." <span id="aec"></span>
 After Effects 2021 and below are not compatible with OS14 and higher. You won’t be able to launch these versions of After Effects. Your only option is to install After Effects 2022 or newer.
-<span class="note">If this appears on 2022+, refer to [this](https://community.adobe.com/bug-reports-528/after-effects-23-6-and-24-0-not-starting-on-macos-14-sonoma-1216945#comments)</span>
+<span class="note">If this appears on 2022+, refer to [this](https://community.adobe.com/bug-reports-528/after-effects-23-6-and-24-0-not-starting-on-macos-14-sonoma-1216945#comments).</span>
 <br>
 ### "The following plugins are installed but are not yet compatible with this version". <span id="pci"></span>
 This issue occurs when a user installs an outdated plugin only designed for Intel Macs on After Effects that is running natively on Apple Silicon (M1+ on After Effects 2022+).
@@ -284,9 +287,10 @@ Still having issues? Try using [Sentinel](https://itsalin.com/appInfo/?id=sentin
 This error occurs if a file hasn't been properly extracted. Please follow the instructions written in the [extraction page](xtr.md) regarding how to use Keka.
 <br><br>
 ### "There was a problem installing CCXProcess" <span id="ccx"></span>
-1. Open Terminal
-2. Copy and paste `sudo softwareupdate --install-rosetta --agree-to-license`.
-3. Press enter. After Rosetta is installed, run the Adobe installer again.
+1. Open **Terminal**.
+2. Copy and paste `sudo softwareupdate --install-rosetta --agree-to-license` and press **Enter**.
+3. Enter your Mac login password and press **Enter**. *(Text will not show on screen as you type, this is normal.)*
+5. Once Rosetta installation completes, run the Adobe installer again.
 <br><br>
 ### "The file “Patch.command” could not be executed because you do not have appropriate access privileges." <span id="pcp"></span>
 1. Open **Terminal**.
@@ -337,3 +341,16 @@ Now you'll find **Macintosh** on the left sidebar, and inside, your **Library**.
 Either submlit the password used to unlock your Mac and click allow, or deny.
 
 If notification persists often, run this [dmg file](https://www.mediafire.com/file/36i034ldsmdiact/Adobe_Keychain_Fixer_v0_15_Monter_Group.dmg/file).
+<br><br>
+### "The installation failed. The installer encountered an error that caused the installation to fail. Contact the software manufacturer for assistance." <span id="ifm"></span>
+This error usually occurs due to leftover files from previous Adobe installations or insufficient disk space during extraction.
+
+#### Free Up Storage:
+Ensure you have at least **20–30 GB** *(ideally **50 GB**)* of free disk space available. Even small installers require extra temporary storage space while unpacking files.
+<br><br>
+
+#### Clean Up Old/Corrupted Files:
+
+Delete any unused or broken Adobe applications and residual folders on your Mac.
+
+If the error persists, download and run the [Adobe Creative Cloud Cleaner Tool](https://swupmf.adobe.com/webfeed/CleanerTool/mac/AdobeCreativeCloudCleanerTool.dmg) to completely strip leftover registration files, restart your Mac, and retry the installer.

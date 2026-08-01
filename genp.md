@@ -1,6 +1,6 @@
 # ✦ GenP Guide
 Easily download and patch the latest version of any Creative Cloud software on **Windows** using **GenP**, an unlimited selection of apps, faster updates, and other benefits.
-<div style="background-color: #302e2e; padding: 16px; border-radius: 6px">
+<div style="background-color: #16181a; padding: 16px; border-radius: 6px">
   ⓘ Mixing GenP with other methods on your machine is <strong>not recommended</strong>, as it will inevitably lead to issues. 
   Run 
   <a href="file:///C:/Path/To/Your/Folder/AdobeCreativeCloudCleanerTool.exe">

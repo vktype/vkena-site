@@ -31,7 +31,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '🗁 Downloads',
+        text: '🗗 Downloads',
         items: [
           { text: 'Windows', link: '/windows' },
           { text: 'MacOS', link: '/macos' },
@@ -57,20 +57,21 @@ export default defineConfig({
           { text: 'After Effects Installation Paths', link: '/paths' },
           { text: 'MacKed Adobe Activation', link: '/macked' },
           { text: 'GenP Adobe Activation', link: '/genp' },
-          { text: 'Rosetta (M1+) Guide', link: '/ros' }
+          { text: 'Rosetta (M1+) Guide', link: '/ros' },
+          { text: 'Software Cleanup Guide', link: '/removal' }
         ]
       },
       {
         text: 'ྀི Other',
         items: [
-          { text: 'Safety & Info', link: '/safety' }
+          { text: 'Safety & Info', link: '/safety' },
+          { text: 'Updates', link: '/updates' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/UnmBtA4SGA' },
-      { icon: 'tiktok', link: 'https://www.tiktok.com/@vktype?_r=1&_t=ZP-97bPQwbr6Za' }
+      { icon: 'discord', link: 'https://discord.gg/UnmBtA4SGA' }
     ]
   }
 })

@@ -1,44 +1,33 @@
 # ✦ Tutorials
 
-Visual Installation Guides ᥫ᭡.ִֶָ𓂃
+Visual Installation Guides
 
 ## Table Of Contents
-- [✧ Windows Software](#windows-software)
-- [✧ Mac Software](#mac-software)
-- [✧ Windows Plugins](#windows-plugins)
-- [✧ Mac Plugins](#mac-plugins)
+[✧ **Windows Software**](#windows-software)
+
+[✧ **Windows Plugins**](#windows-plugins)
+
+[✧ **Mac Software**](#mac-software)
+
+[✧ **Mac Plugins**](#mac-plugins)
 
 ---
 ## ✧ Windows Software <span id="windows-software"></span>
 
 [Adobe](https://files.catbox.moe/oxwpvy.mp4){target="_blank"}
-<span class="note">Intended for ALL Adobe installers.</span>
+<span class="note">Intended for **all** Adobe installers.</span>
+
+[Autodesk](https://files.catbox.moe/szxwcg.mp4)
+<span class="note">Intended for **all** Autodesk installers.</span>
 
 [TopazLabs](https://files.catbox.moe/m6lsyr.mp4){target="_blank"}
-<span class="note">Intended for all Topaz products.</span>
+<span class="note">Intended for **all** Topaz products.</span>
 
 [DaVinci Resolve 20](https://files.catbox.moe/5oq0bo.mp4){target="_blank"}
 
 [FL Studio 2025](https://files.catbox.moe/2ujzrj.mp4){target="_blank"}
 
 [Vegas 23](https://files.catbox.moe/fwbf64.mp4){target="_blank"}
-
----
-## ✧ Mac Software <span id="mac-software"></span>
-
-[Adobe 2024/2025](https://files.catbox.moe/uq5smt.mp4){target="_blank"}
-<span class="note">Intended for all 2024/2025 installers.</span>
-
-[After Effects 2023](https://files.catbox.moe/z9sp7f.mp4){target="_blank"}
-<span class="note">Terminal: <code>sudo xattr -cr</code></span>
-
-[After Effects 2022](https://files.catbox.moe/2qnfdz.mp4){target="_blank"}
-
-[After Effects 2020/2021](https://files.catbox.moe/bwt9nu.mp4){target="_blank"}
-
-[DaVinci Resolve 20](https://files.catbox.moe/tuotst.mp4){target="_blank"}
-
-[Topaz Video](https://files.catbox.moe/hbckuy.mp4){target="_blank"}
 
 ---
 ## ✧ Windows Plugins <span id="windows-plugins"></span>
@@ -65,6 +54,25 @@ Visual Installation Guides ᥫ᭡.ִֶָ𓂃
 
 [ZXP](https://files.catbox.moe/h2ndbq.mp4){target="_blank"}
 <span class="note">Any ZXP file, such as CRT Emulator.</span>
+
+---
+## ✧ Mac Software <span id="mac-software"></span>
+
+[Adobe 2024/26](https://files.catbox.moe/pkvy6t.mp4){target="_blank"}
+<span class="note">Intended for all 2024-2026 installers.</span>
+
+[After Effects 2023](https://files.catbox.moe/z9sp7f.mp4){target="_blank"}
+<span class="note">Terminal: <code>sudo xattr -cr</code></span>
+
+[After Effects 2022](https://files.catbox.moe/2qnfdz.mp4){target="_blank"}
+
+[After Effects 2020/2021](https://files.catbox.moe/bwt9nu.mp4){target="_blank"}
+
+[DaVinci Resolve 21](https://files.catbox.moe/8iy9fz.mp4)
+
+[DaVinci Resolve 20](https://files.catbox.moe/tuotst.mp4){target="_blank"}
+
+[Topaz Video](https://files.catbox.moe/hbckuy.mp4){target="_blank"}
 
 ---
 ##  ✧  Mac Plugins <span id="mac-plugins"></span>

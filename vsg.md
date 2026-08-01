@@ -48,7 +48,7 @@ For presets, simply copy and paste them into your new folder using the same idea
 ## ✧ Other <span id="other"></span>
 #### Extensions
 Extensions are installed to a location visible to all **After Effects** versions installed, you will not have to transfer these.
-<span class="note">Refer to [this](paths.md)</span>
+<span class="note">Refer to [this](paths.md).</span>
 
 #### Scripts
 
