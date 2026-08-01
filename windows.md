@@ -66,7 +66,7 @@ The installers listed below are typically more convenient for beginners and quic
 
 [Speech To Text 2026](https://drive.google.com/drive/folders/1ZyUgfSVDw4N3QD1O9xvuQPWgT34nC1km?usp=sharing)
 
-[Speech To Text 2025](https://drive.google.com/drive/folders/14uFlpgspvTeU7_J13-C2t1U8UB8tVL-i?usp=drive_link)
+[Speech To Text 2025](https://drive.google.com/drive/folders/1djn7M3Qevt99JpNYV6hIYQRuUF-DEJm9?usp=drive_link)
 <br><br>
 ### Photoshop <span id="photoshop"></span>
 

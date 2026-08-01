@@ -64,24 +64,24 @@
 
 [DaVinci Resolve Studio 19](https://www.mediafire.com/file/wwqhrv9xtuzo69o/DaVinci_Resolve_Studio_19.1.4_Win_-_satvrn.zip/file)
 
-[DaVinci Resolve Studio 18](https://www.mediafire.com/file/8tefv9hp7l0jvfw/DaVinci_Resolve_Studio_18_WIN_-_satvrn.zip/file)
+[DaVinci Resolve Studio 18](https://www.mediafire.com/file/03rit1ylcm3ko5o/DaVinci+Resolve+Studio+18+Windows+-+VK.7z/file)
 <br><br>
 ## Magix <span id="magix"></span>
 ### Vegas Pro <span id="vegas-pro"></span>
 
-[Vegas Pro 22](https://www.mediafire.com/file/6t8vqprvs3icd4c/Magix_Vegas_Pro_22_Win_-_satvrn.zip/file)
+[Vegas Pro 22](https://www.mediafire.com/file/ei4b824eprnjsc1/Magix+Vegas+Pro+22+-+VK.7z/file)
 
-[Vegas Pro 21](https://www.mediafire.com/file/stbu8i1ht50czzf/Magix_Vegas_Pro_21_-_satvrn.zip/file)
+[Vegas Pro 21](https://www.mediafire.com/file/ykv1yz9h2xzfqjy/Magix+Vegas+Pro+21+-+VK.7z/file)
 
-[Sony Vegas Pro 16](https://www.mediafire.com/file/tc2fwdich90t22h/Vegas_Pro_16_-_satvrn.zip/file)
+[Sony Vegas Pro 16](https://www.mediafire.com/file/n7ztvu0a3jh7c6h/Sony+Vegas+Pro+16+-+VK.7z/file)
 <br><br>
 ## Image-Line <span id="image-line-w"></span>
 
-[FL Studio 21](https://www.mediafire.com/file/hkyj8ykjjka1jdk/FL_Studio_21_WIN_-_satvrn.zip/file)
+[FL Studio 21](https://www.mediafire.com/file/10iomsps1i8aj41/FL+Studio+21+Windows+-+VK.7z/file)
 <br><br>
 ## Maxon <span id="maxon-w"></span>
 
-[Cinema 4D 2023](https://www.mediafire.com/file/xcecn57jiylyxgo/Cinema_4D_2023.2.1_WIN_-_satvrn.zip/file)
+[Cinema 4D 2023](https://www.mediafire.com/file/ht4u7qsdn86mlf5/Cinema+4D+2023+Windows+-+VK.7z/file)
 
 ---
 ## ✧ Windows Plugins <span id="windows-plugins"></span>
@@ -181,7 +181,7 @@
 
 ## BorisFX <span id="borisfx-m"></span>
 ### Continuum (BCC) <span id="bcc-m"></span>
-[Continuum (BCC) 2025](https://www.mediafire.com/file/mv7pvj7rkgd2poa/BorisFX_Continuum_%2528BCC%2529_2025_18.0.1_Adobe_OFX_MacOS_-_satvrn.zip/file)
+[Continuum (BCC) 2025](https://www.mediafire.com/file/qgdxde2kbdjhc23/BorisFX+Continuum+2025+v18.0.1+Adobe+OFX+MacOS+-+VK.7z/file)
 
 <div style="margin-top: -3px; margin-bottom: -10px;">
   <a href="https://www.mediafire.com/file/r7t8wk998t83a8n/BCC_2019_Mac_-_satvrn.zip/file">Continuum (BCC) 2019</a> 
@@ -250,6 +250,6 @@
 
 ## OFX Plugins <span id="ofx-m"></span>
 
-[Sapphire 2025](https://www.mediafire.com/file/938fj9cu4t6hl5a/BorisFX_Sapphire_2025_MacOS_-_satvrn.zip/file)
+[Continuum (BCC) 2025](https://www.mediafire.com/file/qgdxde2kbdjhc23/BorisFX+Continuum+2025+v18.0.1+Adobe+OFX+MacOS+-+VK.7z/file)
 
-[Continuum (BCC) 2025](https://www.mediafire.com/file/mv7pvj7rkgd2poa/BorisFX_Continuum_%2528BCC%2529_2025_18.0.1_Adobe_OFX_MacOS_-_satvrn.zip/file)
+[Sapphire 2025](https://www.mediafire.com/file/938fj9cu4t6hl5a/BorisFX_Sapphire_2025_MacOS_-_satvrn.zip/file)

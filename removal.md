@@ -43,7 +43,7 @@ This is recommended if:
 ### Before You Start <span id="bysw"></span>
 1. Close the application you're uninstalling.
 
-2. Close any related background processes using Task Manager.
+2. Close any related background processes using **Task Manager**.
 
 3. If the software installs services *(such as Maxon, Adobe, BorisFX, etc.)*, ensure those are closed as well.
 
@@ -133,7 +133,7 @@ Be careful when editing the registry as deleting unrelated entries may cause Win
 
 2. Open **Activity Monitor** and close any remaining background processes.
 
-3. Restart your Mac if you'd like. It's recommended but not always necessary.
+3. Restart your Mac if you'd like. It's recommended, but not always necessary.
 
 ---
 ### Use the Official Uninstaller <span id="ounm"></span>
