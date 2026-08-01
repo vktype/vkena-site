@@ -8,9 +8,9 @@ This is recommended if:
 
 - Installers fail or crash.
 - Plugins don't appear inside your host application.
-- Software still behaves as if it's installed.
+- Older software still behaves as if it's installed.
 - Licensing issues persist after reinstalling.
-- You're downgrading to an older version.
+- You're downgrading/upgrading to another version.
 - Installation support specifically asks for a clean installation.
 
 ---

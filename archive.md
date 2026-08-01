@@ -89,35 +89,35 @@
 
 ## BorisFX <span id="borisfx-w"></span>
 ### Continuum (BCC) <span id="bcc-w"></span>
-[Continuum (BCC) 2025](https://www.mediafire.com/file/fjpatu6stf44c2i/BorisFX.Continuum.2025.5.AE.v18.5.1_Win_-_satvrn.7z/file)
+[Continuum (BCC) 2025](https://www.mediafire.com/file/641a6edx2qz8qqh/BorisFX+Continuum+(BCC)+2025+Adobe+Windows+-+VK.7z/file)
 
-[Continuum (BCC) 2021](https://www.mediafire.com/file/lk03l3vki4l3p1c/BCC_2021_WIN__-_satvrn.zip/file)
+[Continuum (BCC) 2021](https://www.mediafire.com/file/67knbahzhenqp53/BorisFX+Continuum+(BCC)+2021+Adobe+Windows+-+VK.7z/file)
 <br><br>
 ### Sapphire <span id="sapphire-w"></span>
-[Sapphire 2025](https://www.mediafire.com/file/q99lkgkg3jmpfhk/BorisFX.Sapphire.AE.2025.52_Win_-_satvrn.7z/file)
+[Sapphire 2025](https://www.mediafire.com/file/1aho3k32dft7n8c/BorisFX+Sapphire+2025+Adobe+Windows+-+VK.7z/file)
 
-[Sapphire 2023](https://www.mediafire.com/file/7aqqd7v39xuh65l/Sapphire_2023_WIN_-_satvrn.zip/file)
+[Sapphire 2023](https://www.mediafire.com/file/81wfrjal71qwrc2/BorisFX+Sapphire+2023+Adobe+Windows+-+VK.7z/file)
 <br><br>
 ### Mocha Pro <span id="mocha-pro-w"></span>
-[Mocha Pro 2025](https://www.mediafire.com/file/055kmhm3t7h4av5/BorisFX.Mocha.Pro.2025.5.AE.v12.5.1_Win_-_satvrn.7z/file)
+[Mocha Pro 2025](https://www.mediafire.com/file/36ir6h82x7oh065/BorisFX+Mocha+Pro+2025+Adobe+Windows+-+VK.7z/file)
 <br><br>
 ## Maxon <span id="maxon-p-w"></span>
 
-[Red Giant Bundle 2025.5](https://www.mediafire.com/file/3kox0wso45jnv42/Red_Giant_Maxon_Bundle_2025.5.0_Win_-_satvrn.zip/file)
+[Red Giant Bundle 2025.5](https://www.mediafire.com/file/j4m99exsqn5qpoe/Red+Giant+Bundle+2025.5+Adobe+Windows+-+VK.7z/file)
 
-[Magic Bullet Suite 13](https://www.mediafire.com/file/v9kybnea7sj68yt/Magic_Bullet_Looks_13_WIN_-_satvrn.zip/file)
+[Magic Bullet Suite 13](https://www.mediafire.com/file/mri4wi9jc4e1szt/Magic+Bullet+Suite+13+Adobe+Windows+-+VK.7z/file)
 
-[Shooter Suite 13](https://www.mediafire.com/file/tsproyrnk5zvkm5/Shooter_Suite_WIN_-_satvrn.zip/file)
+[Shooter Suite 13](https://www.mediafire.com/file/4dpsqpvwa5dcd1r/Shooter+Suite+13+Windows+-+VK.7z/file)
 
-[Trapcode 15](https://www.mediafire.com/file/nzua0mxelp7nnm2/Trapcode_15_WIN_-_satvrn.zip/file)
+[Trapcode 15](https://www.mediafire.com/file/hh71c56e7jh2u5g/Trapcode+15+Windows+-+VK.7z/file)
 
-[Universe 2](https://www.mediafire.com/file/puy3it1pguvu8ra/Universe_2_WIN_-_satvrn.zip/file)
+[Universe 2](https://www.mediafire.com/file/xzofnokae9u0x41/Universe+2+Windows+-+VK.7z/file)
 <br><br>
 ## RE:VisionFX <span id="revisionfx-w"></span>
 
-[RSMB 6.0.1](https://www.mediafire.com/file/g3tn6fh50ymbuxv/Reel_Smart_Motion_Blur_WIN_-_satvrn.zip/file)
+[RSMB 6.0.1](https://www.mediafire.com/file/ow8s32qhpq3hyn0/Reel+Smart+Motion+Blur+6.0.1+Windows+-+VK.7z/file)
 
-[Twixtor 7.3.0](https://www.mediafire.com/file/l4yug5cy71colv0/Twixtor_WIN_-_satvrn.zip/file)
+[Twixtor 7.3.0](https://www.mediafire.com/file/nvo7pa7wpqwyc53/Twixtor+7.3.0+Windows+-+VK.7z/file)
 <br><br>
 ## OFX Plugins <span id="ofx-w"></span>
 
