@@ -64,7 +64,7 @@ The installers listed below are typically more convenient for beginners and quic
 
 [Premiere Pro 2024.0](https://www.mediafire.com/file/gqiw5j9seyzlmk2/Premiere_Pro_2024.0_Windows_-_VK.7z/file)
 
-[Speech To Text 2026](https://drive.google.com/drive/folders/1yb9lSTWnYZ8bx-yRXWR-VzYQ0DgMPQe9?usp=drive_link)
+[Speech To Text 2026](https://drive.google.com/drive/folders/1ZyUgfSVDw4N3QD1O9xvuQPWgT34nC1km?usp=sharing)
 
 [Speech To Text 2025](https://drive.google.com/drive/folders/14uFlpgspvTeU7_J13-C2t1U8UB8tVL-i?usp=drive_link)
 <br><br>
