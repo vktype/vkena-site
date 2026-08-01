@@ -166,11 +166,11 @@ The installers listed below are typically more convenient for beginners and quic
 
 <div style="margin-top: 0px; margin-bottom: -55px;">
 
-[TouchDesigner 2023](https://www.mediafire.com/file/pu4vmby243ppadq/TouchDesigner_2023.12230_%2528ARM%2529_MacOS_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(M1+ only)</span>
+[TouchDesigner 2023](https://www.mediafire.com/file/1fan08hkyj56m53/TouchDesigner+2023+MacOS+-+VK.7z/file)<span class="note" style="display: inline-block; margin-left: 8px;">(M1+ only)</span>
 </div>
 
 <br><br>
-### Unsorted <span id="unsorted-s"></span>
+## Other <span id="other-s"></span>
 
 [Blender](https://www.blender.org/download/)
 
@@ -180,20 +180,20 @@ The installers listed below are typically more convenient for beginners and quic
 ## ✧ Adobe Plugins <span id="adobe-plugins"></span>
 The following plugins are compatible with **After Effects**, with select plugins also supporting **Premiere Pro** when officially supported by the developer.
 <br><br>
-### BorisFX <span id="borisfx"></span>
+## BorisFX <span id="borisfx"></span>
 
-[Continuum (BCC) 2026.0.1](https://www.mediafire.com/file/fg6qho3iyow8x7f/Continuum_%2528BCC%2529_2026.0.1_Adobe_Mac_-_satvrn.7z/file)
+[Continuum (BCC) 2026.0.1](https://www.mediafire.com/file/vwetkjsgkzyfmeo/BorisFX+Continuum+2026.0.1+Adobe+MacOS+-+VK.7z/file)
 
-[Sapphire 2026.0](https://www.mediafire.com/file/teo1oi6zumqra8e/Sapphire_2026.0_Adobe_Mac_-_satvrn.7z/file)
+[Sapphire 2026.0](https://www.mediafire.com/file/1jzhbrjkn4ct077/BorisFX+Sapphire+2026.0+Adobe+MacOS+-+VK.7z/file)
 
-[Mocha Pro 2026.0](https://www.mediafire.com/file/npf2orivunkzf31/Mocha_Pro_2026.0_Adobe_Mac_-_satvrn.7z/file)
+[Mocha Pro 2026.0](https://www.mediafire.com/file/is46bfy2gz9q3b9/BorisFX+Mocha+Pro+2026+Adobe+MacOS+-+VK.7z/file)
 <br><br>
-### Maxon <span id="maxon"></span>
+## Maxon <span id="maxon"></span>
 
-[Red Giant 2026.3.0](https://www.mediafire.com/file/6qg5zteicoclxy8/Red_Giant_Bundle_2026.3.0_Mac_-_satvrn.7z/file)
+[Red Giant 2026.3.0](https://www.mediafire.com/file/ckqlkc9x5v91l4n/Red+Giant+2026.3.0+Adobe+OFX+MacOS+-+VK.7z/file)
 <span class="note">Includes Magic Bullet Suite, Trapcode Suite, VFX Suite and Universe.</span>
 <br>
-### RE:VisionFX
+## RE:VisionFX <span id="revisionfx-a"></span>
 
 [RE:VisionFX Bundle 24.03](https://www.mediafire.com/file/n92g02b5d6hy8p1/REVisionFX_Bundle_24.03_MacOS_-_VK.7z/file)
 <span class="note">Includes all plugins by RE:VisionFX [(full list here)](https://pastebin.com/EpXKJaNj), including RSMB 6.4.4 & Twixtor 8.0.5 and it's Pro versions.</span>
@@ -201,7 +201,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 [RE:VisionFX Bundle 23.03](https://www.mediafire.com/file/v0wwpr7qf397oqp/REVisionFX_Bundle_23.03_MacOS_-_VK.7z/file)
 <span class="note">Includes all plugins by RE:VisionFX [(full list here)](https://pastebin.com/t6BJD3Rv), including RSMB 6.4.1 & Twixtor 7.5.5 and it's Pro versions.</span>
 <br>
-### Video Copilot <span id="video-copilot"></span>
+## Video Copilot <span id="video-copilot"></span>
 
 [Element 3D 2.2.3](https://www.mediafire.com/file/4xzui6yfwx3ku5m/Element+3D+2.2.3+MacOS+-+VK.7z/file)
 
@@ -222,7 +222,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [VC Color Vibrance](https://www.videocopilot.net/blog/2014/05/new-plug-in-color-vibrance/)
 <br><br>
-### Autokroma <span id="autokroma"></span>
+## Autokroma <span id="autokroma"></span>
 
 <div style="margin-top: 0px; margin-bottom: -12px;">
 
@@ -235,7 +235,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [BRAW Studio 3.3.3](https://www.mediafire.com/file/y9g0q8x2m48buqi/BRAW_Studio_3.3.3_MacOS_-_VK.7z/file)
 <br><br>
-### Zaebects <span id="zaebects"></span>
+## Zaebects <span id="zaebects"></span>
 
 [JPEG Glitch 1.0.4](https://www.mediafire.com/file/yz117rz1qlzet5p/JPEG_Glitch_1.0.4_MacOS_-_VK.7z/file)
 
@@ -245,7 +245,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Signal](https://www.mediafire.com/file/h5lmdasv94c7z0c/Signal_MacOS_-_VK.7z/file)
 <br><br>
-### Plugin Everything <span id="plugin-everything"></span>
+## Plugin Everything <span id="plugin-everything"></span>
 
 [AutoFill 2.0.2](https://www.mediafire.com/file/pcaibbxp5sag73l/AutoFill_2.0.2_Windows_MacOS_-_VK.7z/file)
 
@@ -269,13 +269,13 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Quick Chromatic Aberration](https://aescripts.com/quick-chromatic-aberration/)
 <br><br>
-### ElementSupply Co <span id="elementsupply-co"></span>
+## ElementSupply Co <span id="elementsupply-co"></span>
 
 [Glitchify](https://www.mediafire.com/file/tvivexd418epojw/Glitchify_Windows_MacOS_-_VK.7z/file)
 
 [Polytrace](https://www.mediafire.com/file/tfexw2yn5markhq/Polytrace_Windows_MacOS_-_VK.7z/file)
 <br><br>
-### Rowbyte <span id="rowbyte"></span>
+## Rowbyte <span id="rowbyte"></span>
 
 [Aura 1.2.5](https://www.mediafire.com/file/pep8n1ja8id8iaa/Aura_1.2.5_MacOS_-_VK.7z/file)
 
@@ -288,7 +288,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 [TV Distortion Bundle 2.7.2](https://www.mediafire.com/file/63movafw3varzr0/TV_Distortion_Bundle_2.7.2_MacOS_-_VK.7z/file)
 <span class="note">Includes all Rowbyte distort plugins: Data Glitch, Bad TV, TVPixel, Dot Pixels, & Separate RGB.</span>
 <br>
-### Pixel Sorter Studio <span id="pixel-sorter-studio"></span>
+## Pixel Sorter Studio <span id="pixel-sorter-studio"></span>
 
 [Motion Mosh 1.2.2](https://www.mediafire.com/file/6kmhi6fcveumqls/Motion_Mosh_1.2.2_MacOS_-_VK.7z/file)
 
@@ -300,7 +300,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Pixel Sorter 3.1.0](https://www.mediafire.com/file/gjr5qhnspxkq19o/Pixel_Sorter_3.1.0_MacOS_-_VK.7z/file)
 <br><br>
-### Mettle <span id="mettle"></span>
+## Mettle <span id="mettle"></span>
 
 [Flux 1.16.3](https://www.mediafire.com/file/63zphnbe2586hj7/Mettle_Flux_1.16.3_MacOS_-_VK.7z/file)
 
@@ -310,7 +310,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Shapeshifter 1.99](https://www.mediafire.com/file/sreowx5w66udccm/Mettle_Shapeshifter_1.99_MacOS_-_VK.7z/file)
 <br><br>
-### Satori <span id="satori"></span>
+## Satori <span id="satori"></span>
 
 [Block Swap 1.5.1](https://www.mediafire.com/file/uuczaxk1zrpcup5/Block_Swap_1.5.1_MacOS_-_VK.7z/file)
 
@@ -328,7 +328,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Time Bend 1.0](https://www.mediafire.com/file/uvvucgrm1ponphz/Time_Bend_1.0_MacOS_-_VK.7z/file)
 <br><br>
-### Irrealix <span id="irrealix"></span>
+## Irrealix <span id="irrealix"></span>
 
 [Gaussian Splatting 1.1.0](https://www.mediafire.com/file/w55jymodswsvpi7/Gaussian+Splatting+1.1.0+MacOS+-+VK.7z/file)
 
@@ -340,7 +340,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Volna 2.4.8](https://www.mediafire.com/file/6zchhgvscc6i37b/Volna+2.4.8+MacOS+-+VK.7z/file)
 <br><br>
-### Blace Plugins <span id="blace-plugins"></span>
+## Blace Plugins <span id="blace-plugins"></span>
 
 [Depth Scanner 2 v1.1.23](https://www.mediafire.com/file/nf20i42kg6cexpp/Depth_Scanner_2_v1.1.23_MacOS_-_VK.7z/file)
 
@@ -348,7 +348,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Mask Prompter 3 v3.0.3](https://www.mediafire.com/file/y5uivc3juhnyrnq/Mask_Prompter_3_v3.0.3_Windows_MacOS_-_VK.7z/file)
 <br><br>
-### BAO <span id="bao"></span>
+## BAO <span id="bao"></span>
 
 [Boa 1.6.0](https://www.mediafire.com/file/18kqyl8mlrg1zbt/BAO+Boa+1.6.0+MacOS+-+VK.7z/file)
 
@@ -360,20 +360,20 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Mask Brush 1.9.18](https://www.mediafire.com/file/lok9r32jddsipzv/BAO+Mask+Brush+1.9.18+MacOS+-+VK.7z/file)
 <br><br>
-### Baskl <span id="baskl"></span>
+## Baskl <span id="baskl"></span>
 
 [AI Color Match 1.3.2](https://www.mediafire.com/file/pm5x79wwhscg29b/AI_Color_Match_1.3.2_MacOS_-_VK.7z/file)
 
 [Vision 1.0.3](https://www.mediafire.com/file/cfqy4qoab94p2w4/Vision_1.0.3_MacOS_-_VK.7z/file)
 <br><br>
-### ProductionCrate <span id="productioncrate"></span>
+## ProductionCrate <span id="productioncrate"></span>
 
 [Crates Godrays & Lightswap](https://www.mediafire.com/file/hroishi23wzcnzh/Crates_Godrays_%2526_Lightwrap_Windows_MacOS_-_VK.7z/file)
 
 [LaForge Suite 1.4.02](https://www.mediafire.com/file/pntgewtdpo7hwhc/LaForge+Suite+1.4.02+MacOS+-+VK.7z/file)
 <span class="note">Includes over 25+ ProductionCrate plugins [(full list here)](https://www.productioncrate.com/plugins).</span>
 <br>
-### Other <span id="other-p"></span>
+## Other <span id="other-p"></span>
 
 [Bendio 1.0.1](https://www.mediafire.com/file/brzxb1k02delxdy/Bendio_1.0.1_MacOS_-_VK.7z/file)
 
@@ -419,25 +419,26 @@ The following plugins are compatible with **DaVinci Resolve and other OFX softwa
 <div style="background-color: #16181a; padding: 16px; border-radius: 6px">
   ⓘ This section is <strong>not compatible</strong> with <strong>Adobe</strong>, scroll back up.
 </div>
+<br>
 
-### BorisFX <span id="borisfx-o"></span>
+## BorisFX <span id="borisfx-o"></span>
 
-[Continuum (BCC) 2026.0.1](https://www.mediafire.com/file/edop9xzdmvr6zpy/Continuum_2026.0.1_OFX_Mac_-_satvrn.7z/file)
+[Continuum (BCC) 2026.0.1](https://www.mediafire.com/file/yjw6wh8du2fwo10/Continuum+(BCC)+2026.0.1+OFX+MacOS+-+VK.7z/file)
 
-[Sapphire 2026.0](https://www.mediafire.com/file/w7oqaqpanknogbg/Sapphire_2026.0_OFX_Mac_-_satvrn.7z/file)
+[Sapphire 2026.0](https://www.mediafire.com/file/di4wj54h2xw46yv/Sapphire+2026.0+OFX+MacOS+-+VK.7z/file)
 
-[Mocha Pro 2026.0](https://www.mediafire.com/file/m1j4xjwtdseuzxq/Mocha_Pro_2026.0_OFX_Mac_-_satvrn.7z/file)
+[Mocha Pro 2026.0](https://www.mediafire.com/file/9d4pqy5dvfx3hmi/Mocha+Pro+2026.0+OFX+MacOS+-+VK.7z/file)
 <br><br>
-### Maxon <span id="maxon-o"></span>
+## Maxon <span id="maxon-o"></span>
 
-[Red Giant 2026.3.0](https://www.mediafire.com/file/6qg5zteicoclxy8/Red_Giant_Bundle_2026.3.0_Mac_-_satvrn.7z/file)
+[Red Giant 2026.3.0](https://www.mediafire.com/file/ckqlkc9x5v91l4n/Red+Giant+2026.3.0+Adobe+OFX+MacOS+-+VK.7z/file)
 <span class="note">Includes Magic Bullet Suite, Trapcode Suite, VFX Suite and Universe.</span>
 <br>
-### RE:VisionFX <span id="revisionfx-o"></span>
+## RE:VisionFX <span id="revisionfx-o"></span>
 
-[RE:VisionFX Bundle 2025.1](https://www.mediafire.com/file/td2b11au5fei9dx/Mac_RE_VisionFX_Effections_OFX_2025.1_-_satvrn.zip/file)
+[RE:VisionFX Bundle 2025.1](https://www.mediafire.com/file/giuebrt0mfr7hrz/REVisionFX+Bundle+2025.1+OFX+MacOS+-+VK.7z/file)
 <span class="note">Includes all plugins by RE:VisionFX [(full list here)](https://pastebin.com/u0GQuf0j), including RSMB 6.5.9 & Twixtor 8.0.4 and it's Pro versions.</span>
 <br>
-### Unsorted <span id="unsorted-o"></span>
+## Other <span id="other-o"></span>
 
-[DehancerPro 7.3.4](https://www.mediafire.com/file/szcv7prp62bxfmp/DehancerPro_OFX_7.3.4_Mac_-_satvrn.7z/file)
+[DehancerPro 7.3.4](https://www.mediafire.com/file/jdouj098klop9jq/DehancerPro+7.3.4+OFX+MacOS+-+VK.7z/file)

@@ -82,6 +82,8 @@ Lightroom Classic 15.3.1
 DaVinci Resolve Studio 21.0.1
 
 Final Cut Pro
+
+BAO Boa 1.6.0
 <br><br><br>
 
 ## July 2026
