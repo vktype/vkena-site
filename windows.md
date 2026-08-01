@@ -78,11 +78,11 @@ The installers listed below are typically more convenient for beginners and quic
 <br><br>
 ### Substance <span id="substance"></span>
 
-[Substance 3D Designer 16.0.4](https://www.mediafire.com/file/abq51imkjodxs9p/Substance_3D_Designer_16.0.4_Windows_-_VK.7z/file)
+[3D Designer 16.0.4](https://www.mediafire.com/file/abq51imkjodxs9p/Substance_3D_Designer_16.0.4_Windows_-_VK.7z/file)
 
-[Substance 3D Modeler 1.22.7](https://www.mediafire.com/file/ahz2qopr56jhdre/Substance_3D_Modeler_1.22.7_Windows_-_VK.7z/file)
+[3D Modeler 1.22.7](https://www.mediafire.com/file/ahz2qopr56jhdre/Substance_3D_Modeler_1.22.7_Windows_-_VK.7z/file)
 
-[Substance 3D Painter 12.1.0](https://www.mediafire.com/file/9z84v7u4jmxqebq/Substance_3D_Painter_12.1.0_Windows_-_VK.7z/file)
+[3D Painter 12.1.0](https://www.mediafire.com/file/9z84v7u4jmxqebq/Substance_3D_Painter_12.1.0_Windows_-_VK.7z/file)
 <br><br>
 ### Other <span id="adobe-other"></span>
 

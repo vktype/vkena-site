@@ -51,18 +51,18 @@
 <br><br>
 ## Topaz Labs <span id="topaz-labs-w"></span>
 
-[Topaz Video 6.0.4](https://www.mediafire.com/file/ao00lkakwm9r1bz/Topaz.Video.AI.Pro.v6.0.4_Win_-_satvrn..zip/file)
+[Topaz Video 6.0.4](https://www.mediafire.com/file/mj7i3j0krpx51xv/Topaz+Video+6.0.4+Windows+-+VK.7z/file)
 
-[Topaz Video 3.0.5](https://www.mediafire.com/file/46muunqm2oxp4x5/Topaz_Video_AI_v3.0.5_WIN_-_satvrn.zip/file)
+[Topaz Video 3.0.5](https://www.mediafire.com/file/5cjh06wcrsdx77b/Topaz+Video+3.0.5+Windows+-+VK.7z/file)
 
-[Topaz Photo 3.1.2](https://www.mediafire.com/file/txqodev9oe66a5e/Topaz_Photo_AI_3.1.2_WIN_-_satvrn.zip/file)
+[Topaz Photo 3.1.2](https://www.mediafire.com/file/5m6ng042q7ftovi/Topaz+Photo+3.1.2+Windows+-+VK.7z/file)
 
-[Topaz Gigapixel 5.8.0](https://www.mediafire.com/file/nntwwjhon1dkfx0/Topaz_AI_Gigapixel_5.8.0_WIN_-_satvrn.zip/file)
+[Topaz Gigapixel 5.8.0](https://www.mediafire.com/file/tlc9i5bpvapvwp1/Topaz+Gigapixel+5.8.0+Windows+-+VK.7z/file)
 <br><br>
 ## BlackMagic Design <span id="blackmagic-design-w"></span>
 ### DaVinci Resolve Studio <span id="davinci-resolve-studio-w"></span>
 
-[DaVinci Resolve Studio 19](https://www.mediafire.com/file/wwqhrv9xtuzo69o/DaVinci_Resolve_Studio_19.1.4_Win_-_satvrn.zip/file)
+[DaVinci Resolve Studio 19](https://www.mediafire.com/file/7tmtpcittun0ovl/DaVinci_Resolve_Studio_19_Windows_-_VK.7z/file)
 
 [DaVinci Resolve Studio 18](https://www.mediafire.com/file/03rit1ylcm3ko5o/DaVinci+Resolve+Studio+18+Windows+-+VK.7z/file)
 <br><br>
@@ -121,13 +121,17 @@
 <br><br>
 ## OFX Plugins <span id="ofx-w"></span>
 
-[Continuum (BCC) 2025](https://www.mediafire.com/file/8ms6r2l2liqmx5j/Continuum_2025_OFX_v18.0.3_Win_-_satvrn.zip/file)
+### BorisFX <span id="borisfx-o-w"></span>
 
-[Sapphire 2025](https://www.mediafire.com/file/6d90k56al209rs7/BorisFX.Sapphire.OFX.2025.52_Win_-_satvrn.7z/file)
+[Continuum (BCC) 2025](https://www.mediafire.com/file/yp00j1ayt72bs4d/BorisFX+Continuum+(BCC)+2025+OFX+Windows+-+VK.7z/file)
 
-[Mocha Pro 2025](https://www.mediafire.com/file/6dhjawt5nq9u9xh/BorisFX.Mocha.Pro.2025.5.OFX.v12.5.1_Win_-_satvrn.7z/file)
+[Sapphire 2025](https://www.mediafire.com/file/7uewqiwxjc739n6/BorisFX+Sapphire+2025+OFX+Windows+-+VK.7z/file)
 
-[RE:VisionFX Bundle 21.0](https://www.mediafire.com/file/fv3ltvy96pr7726/RE_VisionFX_Effections_21.0_OFX_Win_-_satvrn.zip/file)
+[Mocha Pro 2025](https://www.mediafire.com/file/fvbjcuvadw3fddg/BorisFX+Mocha+Pro+2025+OFX+Windows+-+VK.7z/file)
+<br><br>
+### RE:VisionFX <span id="revisionfx-o-w"></span>
+
+[RE:VisionFX Bundle 21.0](https://www.mediafire.com/file/96i13oe3741tzhk/REVisionFX+Bundle+21.0+OFX+Windows+-+VK.7z/file)
 
 ---
 ## ✧ MacOS Software <span id="macos-software"></span>
@@ -154,6 +158,11 @@
 
 [Media Encoder 2020 (14.9)](https://www.mediafire.com/file/vnymrsz1p8zjztl/Adobe_After_Effects_2020_MacOS_-_VK.7z/file)
 <br><br>
+
+### Substance
+
+[3D Painter 9.1.2](https://www.mediafire.com/file/89m00aogfl2yvst/Substance_3D_Painter_9.1.2_MacOS_-_VK.7z/file)
+<br><br>
 ## Topaz Labs <span id="topaz-labs-m"></span>
 
 [Topaz Video 6.0.4](https://www.mediafire.com/file/ng7udl24wkjw0qh/Topaz_Video_6.0.4_MacOS_-_VK.7z/file)
@@ -167,7 +176,7 @@
 ## BlackMagic Design <span id="blackmagic-design-m"></span>
 ### DaVinci Resolve Studio <span id="davinci-resolve-studio-m"></span>
 
-[DaVinci Resolve Studio 19.1](https://www.mediafire.com/file/9mup4yj5d8iyulu/DaVinci_Resolve_19.1_MacOS_-_satvrn.zip/file)
+[DaVinci Resolve Studio 19.1](https://www.mediafire.com/file/bt913c96kpbq39q/DaVinci+Resolve+Studio+19+MacOS+-+VK.7z/file)
 
 [DaVinci Resolve Studio 18](https://www.mediafire.com/file/eh35v9nbwjz8pfc/DaVinci+Resolve+Studio+18+MacOS+-+VK.7z/file)
 <br><br>
@@ -181,7 +190,7 @@
 
 ## BorisFX <span id="borisfx-m"></span>
 ### Continuum (BCC) <span id="bcc-m"></span>
-[Continuum (BCC) 2025](https://www.mediafire.com/file/qgdxde2kbdjhc23/BorisFX+Continuum+2025+v18.0.1+Adobe+OFX+MacOS+-+VK.7z/file)
+[Continuum (BCC) 2025](https://www.mediafire.com/file/qgdxde2kbdjhc23/BorisFX+Continuum+2025+v18.0.1+Adobe+OFX+MacOS+-+VK.7z/file) / [2](https://drive.google.com/file/d/147-CCHC5-j_r9O7nFP63poJNkM_SDXiJ/view?usp=drive_link)
 
 <div style="margin-top: -3px; margin-bottom: -10px;">
   <a href="https://www.mediafire.com/file/r7t8wk998t83a8n/BCC_2019_Mac_-_satvrn.zip/file">Continuum (BCC) 2019</a> 
@@ -203,7 +212,7 @@
 
 ### Mocha Pro <span id="mocha-pro-m"></span>
 
-[Mocha Pro 2023](https://www.mediafire.com/file/gh20cgrlfrdua4p/BFXMochaPro2023-10.0.4_Adobe_MacOS_-_satvrn.zip/file)
+[Mocha Pro 2023](https://www.mediafire.com/file/hbeopw70qd5grhv/BorisFX+Mocha+Pro+2023+Adobe+MacOS+-+VK.7z/file)
 <br><br>
 ## Maxon <span id="maxon-p-m"></span>
 
