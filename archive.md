@@ -182,7 +182,7 @@
 <br><br>
 ## Maxon <span id="maxon-m"></span>
 
-[Cinema 2023](https://www.mediafire.com/file/bn9jzrrvq63fwbn/Cinema_4D_2023.2.1_MacOS_-_satvrn.zip/file)
+[Cinema 4D 2023](https://www.mediafire.com/file/adw4ahbp8w2pd6w/Cinema+4D+2023.2.1+MacOS+-+VK.7z/file)
 
 ---
 ## ✧ MacOS Plugins <span id="macos-plugins"></span>
@@ -193,7 +193,7 @@
 [Continuum (BCC) 2025](https://www.mediafire.com/file/qgdxde2kbdjhc23/BorisFX+Continuum+2025+v18.0.1+Adobe+OFX+MacOS+-+VK.7z/file) / [2](https://drive.google.com/file/d/147-CCHC5-j_r9O7nFP63poJNkM_SDXiJ/view?usp=drive_link)
 
 <div style="margin-top: -3px; margin-bottom: -10px;">
-  <a href="https://www.mediafire.com/file/r7t8wk998t83a8n/BCC_2019_Mac_-_satvrn.zip/file">Continuum (BCC) 2019</a> 
+  <a href="https://www.mediafire.com/file/k3737itfj9rwvha/BorisFx+Continuum+2019+Adobe+MacOS+-+VK.7z/file">Continuum (BCC) 2019</a> 
   <span class="note" style="display: inline-block; margin-left: 8px;">
     (Not M1+ <a href="/ros">supported</a>)
   </span>
@@ -202,10 +202,10 @@
 
 ### Sapphire <span id="sapphire-m"></span>
 
-  <a href="https://www.mediafire.com/file/938fj9cu4t6hl5a/BorisFX_Sapphire_2025_MacOS_-_satvrn.zip/file">Sapphire 2025</a>
+  <a href="https://www.mediafire.com/file/ksfr47wz5gg4ws1/BorisFX+Sapphire+2025+Adobe+OFX+MacOS+-+VK.7z/file">Sapphire 2025</a>
 
 <div style="margin-top: -3px; margin-bottom: -10px;">
-  <a href="https://www.mediafire.com/file/2x5mia95vnunfzj/Sapphire_2019_Mac_-_satvrn.zip/file">Sapphire 2019</a> 
+  <a href="https://www.mediafire.com/file/8j2gqai3zmask08/BorisFX+Sapphire+2019+Adobe+MacOS+-+VK.7z/file">Sapphire 2019</a> 
   <span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 <br>
@@ -216,31 +216,31 @@
 <br><br>
 ## Maxon <span id="maxon-p-m"></span>
 
-[Red Giant 2025.5 Bundle](https://www.mediafire.com/file/c9b9ozcddzhjo7q/RedGiant_Maxon_Bundle_2025.5_Mac_-_satvrn.7z/file)
+[Red Giant 2025.5 Bundle](https://www.mediafire.com/file/czj1qa4y50qn9tj/Maxon+Red+Giant+2025.5+MacOS+-+VK.7z/file)
 
 <div style="margin-top: -3px; margin-bottom: -13px;">
 
-[Magic Bullet Suite 13](https://www.mediafire.com/file/qtnxuou8w5pqqvw/Magic_Bullet_Looks_13_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
+[Magic Bullet Suite 13](https://www.mediafire.com/file/bxe807cnz0numtr/Magic+Bullet+Suite+13+MacOS+-+VK.7z/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -3px; margin-bottom: -13px;">
 
-[VFX Suite 1](https://www.mediafire.com/file/7i0qa8ekqamsx6v/Red_Giant_VFX_Suite_1_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
+[VFX Suite 1](https://www.mediafire.com/file/62f9lr40c0puiba/Red+Giant+VFX+Suite+1+MacOS+-+VK.7z/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -16px; margin-bottom: -15px;">
 
-[Shooter Suite 13](https://www.mediafire.com/file/fje1z8wd9vdxmy2/Shooter_Suite_13_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
+[Shooter Suite 13](https://www.mediafire.com/file/ctni11n2msv96fs/Shooter+Suite+13+MacOS+-+VK.7z/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -16px; margin-bottom: -15px;">
 
-[Universe 3](https://www.mediafire.com/file/esldd9pnysyy1w1/Universe_3.3.3_Mac_-_Satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
+[Universe 3](https://www.mediafire.com/file/tl8o2dj63hlh10u/Universe+3.3.3+MacOS+-+VK.7z/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -16px; margin-bottom: -15px;">
 
-[Trapcode Suite 15](https://www.mediafire.com/file/q1vzftevon2k0su/Trapcode_Suite_15_MAC_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
+[Trapcode Suite 15](https://www.mediafire.com/file/wn2ynkllzxm8ttm/Trapcode+Suite+15+MacOS+-+VK.7z/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 <br>
 
@@ -248,12 +248,12 @@
 
 <div style="margin-top: 0px; margin-bottom: -15px;">
 
-[Twixtor 7.3.0](https://www.mediafire.com/file/uc75dsw74d1o1m6/Twixtor_7.3.0_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
+[Twixtor 7.3.0](https://www.mediafire.com/file/oghv4zvstipal3q/Twixtor+7.3.0+MacOS+-+VK.7z/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 
 <div style="margin-top: -16px; margin-bottom: -15px;">
 
-[RSMB 6.2](https://www.mediafire.com/file/jut3kd1dccw3n0f/RSMB_6.2_Mac_-_satvrn.zip/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
+[RSMB 6.2](https://www.mediafire.com/file/ixz9uqeo4y8v9zo/RSMB+6.2+MacOS+-+VK.7z/file)<span class="note" style="display: inline-block; margin-left: 8px;">(Not M1+ <a href="/ros">supported</a>)</span>
 </div>
 <br>
 
@@ -261,4 +261,4 @@
 
 [Continuum (BCC) 2025](https://www.mediafire.com/file/qgdxde2kbdjhc23/BorisFX+Continuum+2025+v18.0.1+Adobe+OFX+MacOS+-+VK.7z/file)
 
-[Sapphire 2025](https://www.mediafire.com/file/938fj9cu4t6hl5a/BorisFX_Sapphire_2025_MacOS_-_satvrn.zip/file)
+[Sapphire 2025](https://www.mediafire.com/file/ksfr47wz5gg4ws1/BorisFX+Sapphire+2025+Adobe+OFX+MacOS+-+VK.7z/filee)

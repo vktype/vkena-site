@@ -11,91 +11,120 @@
 
 ---
 ### Specifications (Purchasing your first PC) <span id="spp"></span>
-If you’re looking to buy a new PC for After Effects and aren’t sure what to prioritize, this guide breaks things down into three simple tiers.
+If you're building or buying a PC for After Effects (or other Adobe apps) and aren't sure where to start, this guide breaks hardware down into three simple tiers.
 
-Keep in mind: Each tier represents the minimum for that level of work, rather than looking at it as a single answer. Individuals may choose to spend more on certain components depending on their budget, personal priority for speed, and other uses for their computer.
-
+These aren't strict requirements, they're simply good starting points. Depending on your budget and what you edit, you may choose to spend more on certain components, so best to do further personalized research.
+<br><br>
 #### Key Notes:
-- After Effects benefits most from RAM and CPU, with the GPU becoming more important when using third-party effects.
-- After Effects prefers high clock speeds over extreme core counts.
-- RAM capacity is more important than type (DDR4 vs DDR5) when on a budget. DDR5 offers a slight speed boost and is worth the purchase if budget allows.
-- A PC is a big purchase. Consider consulting other editors for feedback before making a purchase.
+- After Effects benefits most from a **fast CPU** and **plenty of RAM**. The GPU becomes more important when using GPU-accelerated effects, third-party plugins, or working alongside **Premiere Pro**.
+- Higher clock speeds generally matter more than having an extremely high core count.
+- If you're on a budget, prioritize **more RAM** over DDR5. DDR5 is faster, but additional capacity usually has a larger impact on performance.
+- Storage fills up quickly when working with videos. If possible, use an **SSD** and consider adding a second drive for projects and cache files.
+- A PC is a major purchase. It's always worth getting a second opinion before spending your money.
+<br><br>
 
 #### Low-End / Budget-Friendly
-Ideal for young editors on a tight budget — suitable for entry-level editing and smaller compositions. Users should expect slower previews and render times with more complex effects.
+Perfect for beginners or casual editors working with smaller projects.
+<br><br>
+**RAM**: 16GB *(32GB is highly recommended if your budget allows)*
 
-**RAM**: 16GB
+**Storage**: 500GB–1TB *(NVMe preferred)* SSD
 
-**Storage**: 512GB SSD (NVMe preferred)
+**CPU**:
+- Intel Core i5 *(12th Gen or newer)*
+- AMD Ryzen 5 5600X, 7600, or newer
 
-**CPU**: Intel i5 (12th-13th gen) / AMD Ryzen 5 5600X / 7600
-
-**GPU**: RTX 3050 / RX 6600 (6-8GB VRAM)
+**GPU**:
+- RTX 3050 / RTX 4060
+- RX 6600 / RX 7600
 <span class="note">Don’t overspend on the GPU unless you also use your PC for gaming or other GPU-heavy tasks. Any extra budget is usually better spent on RAM or storage.</span>
+<br>
 
 #### Mid-Range / Casual
-Ideal for the casual editor — best suited for more intermediate compositions with moderate effect usage.
-
+Ideal for most editors working with larger compositions, plugins, and moderate 4K footage.
+<br><br>
 **RAM**: 32GB
 
-**Storage**: 1TB SSD (NVMe preferred)
+**Storage**: 1TB *(NVMe preferred)* SSD
 
-**CPU**: Intel i7 (13th-14th gen) or AMD Ryzen 7 5700X / 7700X
+**CPU**:
+- Intel Core i7 *(13th Gen or newer / Core Ultra equivalent)*
+- AMD Ryzen 7 7700X or newer
 
-**GPU**: RTX 3060 / RTX 4060 / RX 6700 XT (8-12GB VRAM)
-<span class="note">Most mid-range users see better performance gains by upgrading RAM before the GPU.</span>
+**GPU**:
+- RTX 4060 / 4070
+- RX 7700 XT
+<span class="note">For most users, upgrading from 32GB to 64GB of RAM will provide a more noticeable improvement than upgrading to a faster GPU.</span>
+<br>
 
 #### High-End / Pro
-This tier is best for more complex and lengthy compositions, 4K footage, and heavy effect usage.
+Designed for professional workflows, large projects, heavy plugin usage, 4K editing, and 3D work.
 
-**RAM**: 64–128GB+
+**RAM**: 64GB - 128GB+
 
-**Storage**: 2TB SSD+ (NVMe preferred)
+**Storage**: 2TB+ *(NVMe preferred)* SSD
 
-**CPU**: Intel i9 (14th gen) / AMD Ryzen 9 5900X / 7900X / 7950X
+**CPU**:
+- Intel Core Ultra 7/9
+- AMD Ryzen 9 7900X / 7950X / newer
 
-**GPU**: RTX 4080 / 4090 / RX 7900 XT (16GB+ VRAM)
-<span class="note">Consider whether or not more than 64GB of RAM or more than 16GB of VRAM is really needed — only massive 4K projects or complex 3D comps will use it fully.</span>
-<br>
+**GPU**:
+- RTX 4080 / 4090 / 5080 / 5090
+- RX 7900 XTX
+<span class="note">More than 64GB of RAM or 16GB of VRAM is only worthwhile for extremely demanding workflows, such as large 4K/8K projects or complex 3D scenes.</span>
+
+---
 ### Which version of After Effects should I install? <span id="ver"></span>
-Users are recommended to install the latest version of After Effects and take advandage of the newest features and bug fixes, assuming their system meets Adobe’s minimum requirements. If operating on a lower end device, you may have smoother performance with an older release. There's no harm in trying out more than one version before finalizing your pick or a one-for-all answer.
+In most cases, we recommend installing the latest version of After Effects to take advantage of the newest features, performance improvements, and bug fixes.
+
+If you're using an older or lower-end computer, an earlier version may run more smoothly. There's nothing wrong with trying multiple versions before deciding which works best for your system.
 <span class="note">We recommend for you to check out [what's new](https://helpx.adobe.com/after-effects/using/whats-new.html) as well as the [system requirements](https://helpx.adobe.com/after-effects/system-requirements.html) for each version.</span>
-Do keep in mind that After Effects projects are **not backwards compatible**. You won’t be able to open project files or import presets created in versions of After Effects newer than your own, only if they were made with the same or older versions. You can downgrade a project file by going to **File** > **Save As** > **Save a Copy As *(version)***, *asuming you have a compatible version installed to open the project to begin with*.
+
+#### Keep in mind
+After Effects projects **are not backwards compatible**.
+
+A project created in a newer version cannot be opened in an older version unless it has been saved as a backwards-compatible copy. If you have access to the newer version, you can go to:
+
+**File** > **Save As** > **Save a Copy As Previous Version**
+
+to create a version compatible with older releases *(within Adobe's supported range)*.
 <span class="note">On MacOS? Read [this](ros.md) to learn about Apple Silicon compatibility. Mac users have different factors to consider compared to Windows users.</span>
 <br>
 ### What are plugins, and which should I install? <span id="pii"></span>
-Plugins are effects which aren’t native to After Effects, meaning you download them separately. With plugins, you'll be able to use hundreds of effects that you wouldn’t have otherwise. Which plugins you should install depends on the individual, as not all plugins are used in every editing style. Hoarding plugins is also not ideal for storage or performance. Below you'll find descriptions for most popular plugins.
+Plugins are additional effects or tools that aren't included with After Effects by default. They expand what you can create, from advanced motion graphics to realistic lighting, particles, color grading, and visual effects.
+
+Not every editor needs every plugin. Installing dozens of plugins you never use only wastes storage and can slightly increase startup times, so install what you'll actually use.
 
 #### Plugin Recommendations <span id="prc"></span>
-**RSMB**: short for Reel Smart Motion Blur, applies a type of motion blur to your footage
+**ReelSmart Motion Blur**: Adds realistic motion blur to footage or animations.
 
-**MBL**: short for Magic Bullet Looks, an advanced color correction builder with plenty of tools to play with
+**Magic Bullet Looks**: Advanced color grading with hundreds of customizable presets.
 
-**Twitch**: used to create twitch shakes, more specifically “jerky” like movements
+**Twitch**: Creates quick camera shakes, flickers, and jerky movement.
 
-**Twixtor**: famous for making “smooth” slow motion, by warping pre-existing frames together.
+**Twixtor**: Creates smooth slow motion through frame interpolation.
 
-**Universe**: comes with a handful of different effects, but is most popular for VHS and some glitches.
+**Universe**: A collection of effects, best known for VHS, retro, and glitch effects.
 
-**Sapphire**: contains over 100+ visual effects, such as glows, glitches, warps, etc..
+**Sapphire**: One of the most popular plugin suites, featuring hundreds of glows, blurs, distortions, transitions, and stylized effects.
 
-**BCC**: short for BorisFX Complete Continuum, comes with over 100+ unique visual effects and transitions, similar to Sapphire.
+**Continuum (BCC)**: Another massive collection of visual effects, transitions, restorations, and generators.
 
-**Trapcode**: used for creating overlays and backgrounds such as particles, swirls, and burst.
+**Trapcode**: Industry-standard particle systems, 3D objects, and procedural animations.
 
-**Element 3D**: used to create all sorts of 3d text, models and shapes.
+**Element 3D**: Real-time 3D models, text, and objects inside After Effects.
 
-**Saber**: used to create outlines and glows that look identical to light sabers, inspired by Star Wars.
+**Saber**: Creates glowing energy effects inspired by lightsabers, neon, lasers, and outlines.
 
-**Deep Glow**: provides a beautiful glow effect, which looks better than any built in glow effect, great for text and pngs.
+**Deep Glow**: A higher quality glow effect than the default Glow effect, commonly used on text and graphics.
 
-**Optical Flares**: used to create all sorts of flare transitions, highly customizable.
+**Optical Flares**: Highly customizable lens flare effects.
 
 Some great plugins for glitch editing include: **Signal**, **Pixel Sorter**, **Omino**, **Glitchify**, and **Datamosh**.
 
-The majority of plugin developers have videos on YouTube or their respective websites which you can watch to get a better idea and actually see what they can do before installing.
+Most plugin developers have showcase videos on YouTube or their websites, making it easy to see what each plugin can do before installing it.
 
-We have over 100+ plugins on the website.
+<span class="note">Our website currently offers 100+ plugins.</span>
 
 <br>
 
@@ -104,23 +133,37 @@ How to properly set up your first project file.
 #### [Resolution VS Ratio](https://ibb.co/Z1fG7Qw7)
 Resolution refers to the number of pixels that exist inside an image. The first number represents the amount of pixels horizontally while the second number represents vertical. On the other hand, an aspect ratio refers to the proportional relationship between an image's width and height.
 
-Editing in higher resolutions will require a powerful cpu, a good amount of RAM, and plenty of storage. It’s also worth noting that the majority of social apps such as TikTok don’t support 4k and will compress your video. 1080p is more than sufficient for casual work. Creators online will sometimes write “4k” in their description when it actually isn’t to gain views. Don’t fall for this band wagon.
+For most editors, 1080p is still more than enough, especially for content uploaded to social media. Many platforms compress uploaded videos, meaning exporting in 4K won't always produce noticeably better quality.
+
+If your workflow genuinely benefits from 4K, such as client work or heavy cropping, then it's absolutely worth using.
 #### FPS Settings
-The most common FPS in video editing. FPS represents the amount of frames per second.
-- `30 FPS`: Standard fps & can be used for most comps. Editing pictures, animations, sports etc.
-- `60 FPS`: Best when editing video games or making an edit that revolves around time interpolation.
-- `23.976 FPS`: Best for cinema, real life footage and AMV’s. Most TV shows are shot in this fps, and editing in the same fps as your original footage looks so much better.
-- `15 FPS`: Used for an intentional “laggy” look, you can also experiment with any nearby numbers.
+FPS *(Frames Per Second)* determines how many images are shown every second.
+- `23.976 FPS`: Most films, TV shows, and anime are produced at this frame rate.
+- `30 FPS`: The most common frame rate for general editing, motion graphics, and social media.
+- `60 FPS`: Ideal for gaming edits, sports, and footage that may be slowed down.
+- `15 FPS`: Used intentionally for stylized or choppy animation.
+<br><br>
 
-Want to edit in a fps lower than 30fps?
+#### Want to edit in a fps lower than 30fps?
 
-Instead of adjusting your FPS in comp settings, consider using posterize time (an effect in After Effects) to avoid potential playback glitches. By using this effect you’ll also have the ability to lower the frame rate of specific layers rather than having your whole project affected, plus, you can set keyframes.
+Instead of lowering your composition's frame rate, consider using **Posterize Time**.
+
+This lets you reduce the frame rate of individual layers, animate the effect with keyframes, and avoids affecting the entire composition.
+<br><br>
+
 #### Start & Duration
-There are little situations where you’d need to change the start number, you should leave it at 0.
+Most users should leave the Start Time at 0:00.
 
-Set your duration to the length you want your edit to be. If you plan to edit to an audio that is 30 seconds long, you’d enter 0:00:30:00, additionally, your workspace will end at 30s.
+Set your composition's Duration to match the length of your project.
 
-If you were to import a video which is longer than your set duration, you won’t be able to preview all of it as it’ll be blocked off. You can always adjust your comp settings and workspace at any time by going to composition > composition settings.
+For example, a 30-second edit would use `0:00:30:00`. 
+
+If your composition is shorter than imported footage, anything beyond the composition length won't be visible until you increase the duration.
+You can change these settings at any time by going to:
+
+**Composition** > **Composition Settings**
+<br><br>
+
 #### Other Settings
 For a stronger motion blur, you can go into the **Advanced** tab and increase your shutter angle and samples per frame. Intense motion blur is not recommended while also using blur based plugins.
 
