@@ -16,6 +16,11 @@ This is recommended if:
 ---
 ## Table Of Contents
 
+### [✧ **General**](#macos)
+- [Important](removal#important)
+- [Common Software Locations](removal#csl)
+<br><br>
+
 ### [✧ **Windows**](#windows)
 - [Before you start](removal#bysw)
 - [Official Uninstaller](removal#ounw)
@@ -31,11 +36,96 @@ This is recommended if:
 - [Plugin Folders](removal#plfm)
 - [Remove Remaining Program Files](removal#rpfm)
 - [Clear Preferences & Caches](removal#pncm)
+
+---
+## ✧ Important <span id="important"></span>
+
+Do **not** delete folders unless you're certain they belong to the software you're uninstalling.
+
+If you're planning to reinstall immediately afterwards, restart your computer before running the installer again.
+
+---
+## ✧ Common Software Locations <span id="csl"></span>
+
+These are some of the most common folders used by popular creative software.
+
+## Adobe
+
+### Windows
+
+`C:\Program Files\Adobe`
+
+`C:\ProgramData\Adobe`
+
+`%AppData%\Adobe`
+
+`%LocalAppData%\Adobe`
+<br><br>
+### MacOS
+
+`/Applications/Adobe*`
+
+`/Library/Application Support/Adobe`
+
+`~/Library/Application Support/Adobe`
 <br><br>
 
-### [✧ **General**](#macos)
-- [Common Software Locations](removal#csl)
-- [Important](removal#important)
+## Maxon
+
+### Windows
+
+`C:\Program Files\Maxon`
+
+`C:\ProgramData\Maxon`
+
+`%AppData%\Maxon`
+
+`%LocalAppData%\Maxon`
+<br><br>
+### MacOS
+
+`/Applications/Maxon*`
+
+`/Library/Application Support/Maxon`
+
+`~/Library/Application Support/Maxon`
+<br><br>
+
+## BorisFX
+
+### Windows
+
+`C:\Program Files\BorisFX`
+
+`C:\ProgramData\BorisFX`
+
+`%AppData%\BorisFX`
+
+`%LocalAppData%\BorisFX`
+<br><br>
+### MacOS
+`/Applications/BorisFX*`
+
+`/Library/Application Support/BorisFX`
+
+`~/Library/Application Support/BorisFX`
+<br><br>
+
+## Red Giant
+
+### Windows
+
+`C:\Program Files\Maxon`
+
+`C:\Program Files\Red Giant`
+
+`C:\ProgramData\Maxon`
+<br><br>
+### MacOS
+
+`/Library/Application Support/Maxon`
+
+`/Library/Application Support/Red Giant`
 
 ---
 ## ✧ Windows <span id="windows"></span>
@@ -193,93 +283,3 @@ Delete folders belonging to the software.
 Delete preference files if they remain.
 
 These are commonly stored in: `~/Library/Preferences` or `~/Library/Application Support`.
-
----
-## ✧ Common Software Locations <span id="csl"></span>
-
-These are some of the most common folders used by popular creative software.
-
-## Adobe
-
-### Windows
-
-`C:\Program Files\Adobe`
-
-`C:\ProgramData\Adobe`
-
-`%AppData%\Adobe`
-
-`%LocalAppData%\Adobe`
-<br><br>
-### MacOS
-
-`/Applications/Adobe*`
-
-`/Library/Application Support/Adobe`
-
-`~/Library/Application Support/Adobe`
-<br><br>
-
-## Maxon
-
-### Windows
-
-`C:\Program Files\Maxon`
-
-`C:\ProgramData\Maxon`
-
-`%AppData%\Maxon`
-
-`%LocalAppData%\Maxon`
-<br><br>
-### MacOS
-
-`/Applications/Maxon*`
-
-`/Library/Application Support/Maxon`
-
-`~/Library/Application Support/Maxon`
-<br><br>
-
-## BorisFX
-
-### Windows
-
-`C:\Program Files\BorisFX`
-
-`C:\ProgramData\BorisFX`
-
-`%AppData%\BorisFX`
-
-`%LocalAppData%\BorisFX`
-<br><br>
-### MacOS
-`/Applications/BorisFX*`
-
-`/Library/Application Support/BorisFX`
-
-`~/Library/Application Support/BorisFX`
-<br><br>
-
-## Red Giant
-
-### Windows
-
-`C:\Program Files\Maxon`
-
-`C:\Program Files\Red Giant`
-
-`C:\ProgramData\Maxon`
-<br><br>
-### MacOS
-
-`/Library/Application Support/Maxon`
-
-`/Library/Application Support/Red Giant`
-
----
-## ✧ Important <span id="important"></span>
-
-Do **not** delete folders unless you're certain they belong to the software you're uninstalling.
-
-If you're planning to reinstall immediately afterwards, restart your computer before running the installer again.
