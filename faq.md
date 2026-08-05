@@ -88,12 +88,26 @@ You can either delete one of these folders, though, consider removing both of th
 ### I installed an extension (e.g. Flow) that appears in the list, but nothing happens when I click on it. <span id="eep"></span>
 Ensure that the CEP (Common Extensibility Platform) is enabled.
 
-<span style="font-weight: 800;">Windows</span>:
+<span style="font-weight: 800;">Windows (Recommended)</span>:
 
-1. Close After Effects.
-2. Download this [file](https://www.mediafire.com/file/ak5jdd2y6z2si09/keys.reg/file) and run it.
+1. Download and run the provided registry [file](https://www.mediafire.com/file/ak5jdd2y6z2si09/keys.reg/file).
 
-<span style="font-weight: 800;">Mac</span>:
+2. Restart your application.
+
+<span style="font-weight: 800;">Windows (Manual)</span>:
+
+If the registry file doesn't work:
+1. Press **Win** + **R**, type `regedit`, and press **Enter**.
+
+2. Nagivate to `HKEY_CURRENT_USER\Software\Adobe\CSXS.13` *(or **.12**, **.11**, .**10**, whichever exists)*.
+
+3. Change the value of `PlayerDebugMode` to `1`.
+<span class="note">*(If the string value doesn't exist, create it by right clicking on any empty area, **New** > **String Value**, name it exactly `PlayerDebugMode`, and set its value to `1`.)*</span>
+
+4. Restart your application.
+<br><br>
+
+<span style="font-weight: 800;">MacOS</span>:
 
 1. Close After Effects and open Terminal.
 2. Copy and paste the text below:
