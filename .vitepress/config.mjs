@@ -71,7 +71,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/UnmBtA4SGA' }
+      { icon: 'discord', link: 'https://discord.gg/w7WZRNn9mn' }
     ]
   }
 })
