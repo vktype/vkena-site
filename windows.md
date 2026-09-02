@@ -144,6 +144,8 @@ The installers listed below are typically more convenient for beginners and quic
 ## Image-Line <span id="image-line"></span>
 ### FL Studio <span id="fl-studio"></span>
 
+[FL Studio 26.1.4](https://www.mediafire.com/file/sx4ywrn147j50qw/FL+Studio+2026+Windows+-+VK.7z/file)
+
 [FL Studio 25.1.6](https://www.mediafire.com/file/voxr58c76t3cgaz/FL_Studio_25.1.6_Windows_-_VK.7z/file)
 <br><br>
 ## Xfer Records <span id="xfer-records"></span>
@@ -216,11 +218,17 @@ The following plugins are compatible with **After Effects**, with select options
 <br>
 ## Zaebects <span id="zaebects"></span>
 
+[Fryer](https://www.mediafire.com/file/snll0my120fuuvf/Fryer_v1.0_-_VK.7z/file)
+
 [JPEG Glitch 1.0.4](https://www.mediafire.com/file/t2wry8sodk2w16s/JPEG_Glitch_1.0.4_Windows_-_VK.7z/file)
 
 [Modulation 2.1](https://www.mediafire.com/file/xi5cadbt3bj062w/Modulation_2.1_Windows_-_VK.7z/file)
 
+[Oscilloscope](https://www.mediafire.com/file/ia37ipla9pbiheb/Oscilloscope_1.0_-_VK.7z/file)
+
 [Physarum v1.3](https://www.mediafire.com/file/ql4sbipp8my045v/Physarum_1.3_Windows_MacOS_-_VK.7z/file)
+
+[Risograph 1.0.1](https://www.mediafire.com/file/d0d17sbmukxmot3/Risograph_v1.0.1_-_VK.7z/file)
 
 [Signal 1.2.3](https://www.mediafire.com/file/v49r69k7otl58ee/Signal_1.2.3_Windows_-_VK.7z/file)
 <br><br>
@@ -287,7 +295,7 @@ The following plugins are compatible with **After Effects**, with select options
 <br>
 ## Blace Plugins <span id="blace-plugins"></span>
 
-[Depth Scanner v2 2.4.42](https://www.mediafire.com/file/44wbgmws9doiuug/Depth_Scanner_2_v2.4.42_Windows_-_VK.7z/file)
+[Depth Scanner 2 v2.6.64](https://www.mediafire.com/file/nn1ow96w5o04osq/Depth+Scanner+2+v2.6.64+Windows+-+VK.7z/file)
 
 [I Ate Mushrooms 6.24](https://www.mediafire.com/file/lrxwfvpbp4h3fs2/I_Ate_Mushrooms_6.24_Windows_-_VK.7z/file)
 
@@ -346,6 +354,8 @@ The following plugins are compatible with **After Effects**, with select options
 
 [Bendio 1.0.1](https://www.mediafire.com/file/4g1yk8lp1igunnl/Bendio_1.0.1_Windows_-_VK.7z/file)
 
+[CenterLine 1.0.4](https://www.mediafire.com/file/lnpeduay9o3dlzz/CenterLine_1.0.4_-_VK.7z/file)
+
 [Color Llama 1.1.0](https://www.mediafire.com/file/qtnv8dojw7vpc5i/Color_Llama_1.1.0_Windows_-_VK.7z/file)
 
 [Colour Scheme Generator](https://www.mediafire.com/file/bfxmp8itmquhr6j/Colour_Scheme_Generator_Windows_MacOS_-_VK.7z/file)
@@ -372,7 +382,11 @@ The following plugins are compatible with **After Effects**, with select options
 
 [Ignite Pro 2021.1](https://www.mediafire.com/file/botxbdudc0u5izn/Ignite_Pro_2021.1_Adobe_OFX_Windows_-_VK.7z/file)
 
+[Lockdown 4](https://www.mediafire.com/file/pgiy66yntdthpxc/Lockdown_4_-_VK.7z/file)
+
 [Lockdown 2.8.7](https://www.mediafire.com/file/znb3zqg489ue4jc/Lockdown_2.8.7_Windows_-_VK.7z/file)
+
+[MeltFlow Blur](https://www.mediafire.com/file/ejmaaowxt6x4qx4/MeltFlow_Blur_Windows_-_VK.7z/file)
 
 [Memleak 1.1.1](https://www.mediafire.com/file/1cjv35v8tfqx6x5/Memleak_1.1.1_Windows_-_VK.7z/file)
 
@@ -449,3 +463,5 @@ The following plugins are compatible with **DaVinci Resolve**, with select optio
 [Dust Transition 1.1.0](https://www.mediafire.com/file/36gn8rjktf2kq2u/Dust_Transition_1.1_OFX_Windows_-_VK.7z/file)
 
 [Ignite Pro 2021.1](https://www.mediafire.com/file/botxbdudc0u5izn/Ignite_Pro_2021.1_Adobe_OFX_Windows_-_VK.7z/file)
+
+[Risograph 1.0.1](https://www.mediafire.com/file/d0d17sbmukxmot3/Risograph_v1.0.1_-_VK.7z/file)

@@ -20,7 +20,7 @@ Visual Installation Guides
 [Autodesk](https://files.catbox.moe/szxwcg.mp4)
 <span class="note">Intended for **all** Autodesk installers.</span>
 
-[TopazLabs](https://files.catbox.moe/m6lsyr.mp4){target="_blank"}
+[Topaz Labs](https://files.catbox.moe/m6lsyr.mp4){target="_blank"}
 <span class="note">Intended for **all** Topaz products.</span>
 
 [DaVinci Resolve 20](https://files.catbox.moe/5oq0bo.mp4){target="_blank"}
@@ -46,6 +46,8 @@ Visual Installation Guides
 <span class="note">Applies to any file that ends in .aex.</span>
 
 [Deep Glow 2](https://files.catbox.moe/wfudga.mp4){target="_blank"}
+
+[Depth Scanner 2](https://files.catbox.moe/zhg8mv.mp4)
 
 [FilmConvert](https://files.catbox.moe/jbdp87.mp4){target="_blank"}
 <span class="note">Intended for all FilmConvert plugins.</span>
@@ -77,6 +79,9 @@ Visual Installation Guides
 ---
 ##  ✧  Mac Plugins <span id="mac-plugins"></span>
 
+[Red Giant 2026.5](https://files.catbox.moe/9vnmq5.mp4){target="_blank"}
+<span class="note">Updated for its 2026.5 installer.</span>
+
 [Red Giant](https://files.catbox.moe/nqjtq0.mp4){target="_blank"}
 
 [Sapphire 2026](https://files.catbox.moe/9va4d2.mp4){target="_blank"}
@@ -92,6 +97,8 @@ Visual Installation Guides
 <span class="note">Applies to any file that ends in .plugin.</span>
 
 [Optical Flares](https://files.catbox.moe/lg32df.mov){target="_blank"}
+
+[Depth Scanner 2](https://files.catbox.moe/a34pyf.mp4){target="_blank"}
 
 [Bokeh](https://files.catbox.moe/6sbhi0.mp4){target="_blank"}
 

@@ -2,6 +2,74 @@
 Software, plugins, and version changes logged as they drop.
 
 ---
+## September 2026
+
+New website layout coming soon...
+
+### Windows
+
+FL Studio 2026.1.4
+
+Adobe Sapphire 2021
+
+Depth Scanner 2 v2.6.64
+
+Goodbye Greenscreen 2 v2.5.64
+
+Fryer
+
+Oscilloscope
+
+Adobe Risograph 1.0.1
+
+OFX Risograph 1.0.1
+
+CenterLine 1.0.4
+
+Lockdown 4
+
+MeltFlow Blur
+
+CRT TV Emulator
+
+AutoSway 1.93
+
+<br>
+
+### MacOS
+
+FL Studio 2026.1.4
+
+Adobe Continuum 2026.5
+
+OFX Continuum 2026.5
+
+Adobe Sapphire 2026.5
+
+Adobe OFX Red Giant 2026.5.0
+
+Depth Scanner 2 v2.6.64
+
+Fryer
+
+Oscilloscope
+
+Adobe Risograph 1.0.1
+
+OFX Risograph 1.0.1
+
+CenterLine 1.0.4
+
+Lockdown 4
+
+MeltFlow Blur
+
+CRT TV Emulator
+
+AutoSway 1.93
+
+<br><br><br>
+
 ## August 2026
 **All files updated to the new naming system and password.**
 

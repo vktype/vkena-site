@@ -44,6 +44,8 @@ ZXP files can be installed with [ZXP installer](https://aescripts.com/learn/post
 
 [ChromeFX 1.0.0](https://www.mediafire.com/file/0147ut8fwckq96i/ChromeFX_1.0.0_-_VK.7z/file)
 
+[CRT TV Emulator](https://www.mediafire.com/file/ppcfrz54b4efc7f/CRT+TV+Emulator+-+VK.7z/file)
+
 <div style="margin-top: -3px; margin-bottom: -10px;">
   <a href="https://www.mediafire.com/file/o3dv95o51lo10uq/CRT_Emulator_-_VK.7z/file">CRT Emulator</a> 
   <span class="note" style="display: inline-block; margin-left: 8px;">(2025+ not supported)</span>
@@ -146,6 +148,8 @@ ZXP files can be installed with [ZXP installer](https://aescripts.com/learn/post
 [AE Global Renamer](https://www.mediafire.com/file/mhv75g4h2fsc7wi/AE_Global_Renamer_2.6.2_-_VK.7z/file)
 
 [Align Pro](https://www.mediafire.com/file/wbu7ur18z0di7ag/Align_Pro_v1.1.0_Windows_MacOS_-_VK.7z/file)
+
+[AutoSway 1.93](https://www.mediafire.com/file/230ld5dayhgpd7l/AutoSway_1.93_-_VK.7z/file)
 
 [AutoSway 1.90](https://www.mediafire.com/file/mkbi6nr98fg0efh/AutoSway_v1.90_-_VK.7z/file)
 

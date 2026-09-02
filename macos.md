@@ -149,6 +149,14 @@ The installers listed below are typically more convenient for beginners and quic
 
 [DaVinci Resolve Studio 20.3.1](https://www.mediafire.com/file/ifkcx0vlmy2lcgz/DaVinci+Resolve+Studio+20.3.1+MacOS+-+VK.7z/file)
 <br><br>
+
+## Image-Line <span id="image-line"></span>
+
+### FL Studio <span id="fl-studio"></span>
+
+[FL Studio 26.1.4](https://www.mediafire.com/file/mn2rh51vdtqqsku/FL+Studio+2026+MacOS+-+VK.7z/file)
+<br><br>
+
 ## Maxon <span id="maxon"></span>
 
 [Cinema 4D 2024](https://www.mediafire.com/file/g3jo6y7jgooxp8x/Cinema+4D+2024.2+MacOS+-+VK.7z/file)
@@ -182,15 +190,15 @@ The following plugins are compatible with **After Effects**, with select plugins
 <br><br>
 ## BorisFX <span id="borisfx"></span>
 
-[Continuum (BCC) 2026.0.1](https://www.mediafire.com/file/vwetkjsgkzyfmeo/BorisFX+Continuum+2026.0.1+Adobe+MacOS+-+VK.7z/file)
+[Continuum (BCC) 2026.5](https://www.mediafire.com/file/u7hu4o9w68nfkmd/BorisFX_Continuum_2026.5_Adobe_MacOS_-_VK.7z/file)
 
-[Sapphire 2026.0](https://www.mediafire.com/file/1jzhbrjkn4ct077/BorisFX+Sapphire+2026.0+Adobe+MacOS+-+VK.7z/file)
+[Sapphire 2026.5](https://www.mediafire.com/file/34vg3f5795o68kr/BorisFX_Sapphire_2026.5_Adobe_MacOS_-_VK.7z/file)
 
 [Mocha Pro 2026.0](https://www.mediafire.com/file/is46bfy2gz9q3b9/BorisFX+Mocha+Pro+2026+Adobe+MacOS+-+VK.7z/file)
 <br><br>
 ## Maxon <span id="maxon"></span>
 
-[Red Giant 2026.3.0](https://www.mediafire.com/file/ckqlkc9x5v91l4n/Red+Giant+2026.3.0+Adobe+OFX+MacOS+-+VK.7z/file)
+[Red Giant 2026.5.0](https://www.mediafire.com/file/n6ixmu9hwlpqb3n/Red+Giant+Bundle+2026.5+MacOS+-+VK.7z/file)
 <span class="note">Includes Magic Bullet Suite, Trapcode Suite, VFX Suite and Universe.</span>
 <br>
 ## RE:VisionFX <span id="revisionfx-a"></span>
@@ -237,11 +245,17 @@ The following plugins are compatible with **After Effects**, with select plugins
 <br><br>
 ## Zaebects <span id="zaebects"></span>
 
+[Fryer](https://www.mediafire.com/file/snll0my120fuuvf/Fryer_v1.0_-_VK.7z/file)
+
 [JPEG Glitch 1.0.4](https://www.mediafire.com/file/yz117rz1qlzet5p/JPEG_Glitch_1.0.4_MacOS_-_VK.7z/file)
 
 [Modulation 2](https://www.mediafire.com/file/ixo329qrozq4zig/Modulation_2_MacOS_-_VK.7z/file)
 
+[Oscilloscope](https://www.mediafire.com/file/ia37ipla9pbiheb/Oscilloscope_1.0_-_VK.7z/file)
+
 [Physarum v1.3](https://www.mediafire.com/file/ql4sbipp8my045v/Physarum_1.3_Windows_MacOS_-_VK.7z/file)
+
+[Risograph 1.0.1](https://www.mediafire.com/file/d0d17sbmukxmot3/Risograph_v1.0.1_-_VK.7z/file)
 
 [Signal](https://www.mediafire.com/file/h5lmdasv94c7z0c/Signal_MacOS_-_VK.7z/file)
 <br><br>
@@ -342,7 +356,7 @@ The following plugins are compatible with **After Effects**, with select plugins
 <br><br>
 ## Blace Plugins <span id="blace-plugins"></span>
 
-[Depth Scanner 2 v1.1.23](https://www.mediafire.com/file/nf20i42kg6cexpp/Depth_Scanner_2_v1.1.23_MacOS_-_VK.7z/file)
+[Depth Scanner 2 v2.6.64](https://www.mediafire.com/file/718lknhb4gwqpgs/Depth+Scanner+2+v2.6.64+MacOS+-+VK.7z/file)
 
 [I Ate Mushrooms 1.5.0](https://www.mediafire.com/file/msnuyyeuq1gkvxn/I_Ate_Mushrooms_1.5.0_MacOS_-_VK.7z/file)
 
@@ -379,6 +393,8 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Bullet Time 1.1.8](https://www.mediafire.com/file/wfm1ow33dpv619v/Bullet_Time_1.1.8_MacOS_-_VK.7z/file)
 
+[CenterLine 1.0.4](https://www.mediafire.com/file/lnpeduay9o3dlzz/CenterLine_1.0.4_-_VK.7z/file)
+
 [Colour Scheme Generator](https://www.mediafire.com/file/bfxmp8itmquhr6j/Colour_Scheme_Generator_Windows_MacOS_-_VK.7z/file)
 
 [Composite Brush 1.6.7](https://www.mediafire.com/file/ow8rufqfbf6p72j/Composite_Brush_1.6.7_Windows_MacOS_-_VK.7z/file)
@@ -393,7 +409,11 @@ The following plugins are compatible with **After Effects**, with select plugins
 
 [Film Convert Nitrate 3.53](https://www.mediafire.com/file/9dw2hszf9df6b29/Film_Convert_Nitrate_3.53_MacOS_-_VK.7z/file)
 
+[Lockdown 4](https://www.mediafire.com/file/pgiy66yntdthpxc/Lockdown_4_-_VK.7z/file)
+
 [Lockdown 3](https://www.mediafire.com/file/f9mhbqds5u9uvah/Lockdown_3_MacOS_-_VK.7z/file)
+
+[MeltFlow Blur](https://www.mediafire.com/file/l1j40he2jo7iv6i/MeltFlow_Blur_-_VK.7z/file)
 
 [Newton 4.0](https://www.mediafire.com/file/mpu3nitti5ym2jn/Newton_4.0_MacOS_-_VK.7z/file)
 
@@ -431,7 +451,7 @@ The following plugins are compatible with **DaVinci Resolve and other OFX softwa
 <br><br>
 ## Maxon <span id="maxon-o"></span>
 
-[Red Giant 2026.3.0](https://www.mediafire.com/file/ckqlkc9x5v91l4n/Red+Giant+2026.3.0+Adobe+OFX+MacOS+-+VK.7z/file)
+[Red Giant 2026.5](https://www.mediafire.com/file/n6ixmu9hwlpqb3n/Red+Giant+Bundle+2026.5+MacOS+-+VK.7z/file)
 <span class="note">Includes Magic Bullet Suite, Trapcode Suite, VFX Suite and Universe.</span>
 <br>
 ## RE:VisionFX <span id="revisionfx-o"></span>
@@ -442,3 +462,5 @@ The following plugins are compatible with **DaVinci Resolve and other OFX softwa
 ## Other <span id="other-o"></span>
 
 [DehancerPro 7.3.4](https://www.mediafire.com/file/jdouj098klop9jq/DehancerPro+7.3.4+OFX+MacOS+-+VK.7z/file)
+
+[Risograph 1.0.1](https://www.mediafire.com/file/d0d17sbmukxmot3/Risograph_v1.0.1_-_VK.7z/file)
