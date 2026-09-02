@@ -97,6 +97,8 @@
 [Sapphire 2025](https://www.mediafire.com/file/1aho3k32dft7n8c/BorisFX+Sapphire+2025+Adobe+Windows+-+VK.7z/file)
 
 [Sapphire 2023](https://www.mediafire.com/file/81wfrjal71qwrc2/BorisFX+Sapphire+2023+Adobe+Windows+-+VK.7z/file)
+
+[Sapphire 2021](https://www.mediafire.com/file/vcgi9vmcb1cr237/BorisFX+Sapphire+2021+Adobe+Windows+-+VK.7z/file)
 <br><br>
 ### Mocha Pro <span id="mocha-pro-w"></span>
 [Mocha Pro 2025](https://www.mediafire.com/file/36ir6h82x7oh065/BorisFX+Mocha+Pro+2025+Adobe+Windows+-+VK.7z/file)

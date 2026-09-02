@@ -297,6 +297,8 @@ The following plugins are compatible with **After Effects**, with select options
 
 [Depth Scanner 2 v2.6.64](https://www.mediafire.com/file/nn1ow96w5o04osq/Depth+Scanner+2+v2.6.64+Windows+-+VK.7z/file)
 
+[Goodbye Greenscreen 2 v2.5.64](https://www.mediafire.com/file/jmyw9wlgkjn2i17/Goodbye_Greenscreen_v2.5.64_-_VK.7z/file)
+
 [I Ate Mushrooms 6.24](https://www.mediafire.com/file/lrxwfvpbp4h3fs2/I_Ate_Mushrooms_6.24_Windows_-_VK.7z/file)
 
 [Mask Prompter 3 3.0.3](https://www.mediafire.com/file/y5uivc3juhnyrnq/Mask_Prompter_3_v3.0.3_Windows_MacOS_-_VK.7z/file)
