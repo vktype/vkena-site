@@ -388,7 +388,7 @@ The following plugins are compatible with **After Effects**, with select options
 
 [Lockdown 2.8.7](https://www.mediafire.com/file/znb3zqg489ue4jc/Lockdown_2.8.7_Windows_-_VK.7z/file)
 
-[MeltFlow Blur](https://www.mediafire.com/file/ejmaaowxt6x4qx4/MeltFlow_Blur_Windows_-_VK.7z/file)
+[MeltFlow Blur](https://www.mediafire.com/file/l1j40he2jo7iv6i/MeltFlow_Blur_-_VK.7z/file)
 
 [Memleak 1.1.1](https://www.mediafire.com/file/1cjv35v8tfqx6x5/Memleak_1.1.1_Windows_-_VK.7z/file)
 
