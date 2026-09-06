@@ -104,7 +104,7 @@ ZXP files can be installed with [ZXP installer](https://aescripts.com/learn/post
 
 [MotionBro](https://www.mediafire.com/file/k7c723d2lw25vtx/MotionBro_Windows_MacOS_-_VK.7z/file)
 
-[Motion Tools Pro 2.0.15](https://www.mediafire.com/file/pwqo3mm3h7yco97/Motion_Tools_Pro_2.0.15_-_VK.7z/file)
+[Motion Tools Pro 2.1.2](https://www.mediafire.com/file/4082xc6oeodbw0m/Motion+Tools+Pro+2.1.2+-+VK.7z/file)
 
 [MoveAnchorPoint 4](https://www.mediafire.com/file/wx63ii3oun1lnuz/MoveAnchorPoint_4_-_VK.7z/file)
 
