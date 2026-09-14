@@ -87,7 +87,7 @@ The installers listed below are typically more convenient for beginners and quic
 
 <div style="margin-top: 0px; margin-bottom: -53px;">
 
-[Speech To Text 2025.0](https://drive.google.com/drive/folders/1z_53BLO0EFLY3r2pMGYLySI0HqEb5XRO?usp=drive_link)<span class="note" style="display: inline-block; margin-left: 8px;">(M1+ only)</span>
+[Speech To Text 2025.0](https://drive.google.com/drive/folders/1z_53BLO0EFLY3r2pMGYLySI0HqEb5XRO?usp=sharing)<span class="note" style="display: inline-block; margin-left: 8px;">(M1+ only)</span>
 </div>
 
 <br><br>
